@@ -1,0 +1,2558 @@
+epi_week,disease,no._of_cases
+2012-W01,Acute Upper Respiratory Tract infections,2932
+2012-W01,Acute Conjunctivitis,120
+2012-W01,Acute Diarrhoea,491
+2012-W01,Chickenpox,18
+2012-W02,Acute Upper Respiratory Tract infections,3189
+2012-W02,Acute Conjunctivitis,114
+2012-W02,Acute Diarrhoea,575
+2012-W02,Chickenpox,19
+2012-W03,Acute Upper Respiratory Tract infections,3185
+2012-W03,Acute Conjunctivitis,106
+2012-W03,Acute Diarrhoea,539
+2012-W03,Chickenpox,16
+2012-W04,Acute Upper Respiratory Tract infections,4001
+2012-W04,Acute Conjunctivitis,118
+2012-W04,Acute Diarrhoea,615
+2012-W04,Chickenpox,24
+2012-W05,Acute Upper Respiratory Tract infections,3356
+2012-W05,Acute Conjunctivitis,110
+2012-W05,Acute Diarrhoea,559
+2012-W05,Chickenpox,18
+2012-W06,Acute Upper Respiratory Tract infections,3358
+2012-W06,Acute Conjunctivitis,111
+2012-W06,Acute Diarrhoea,557
+2012-W06,Chickenpox,20
+2012-W07,Acute Upper Respiratory Tract infections,3033
+2012-W07,Acute Conjunctivitis,105
+2012-W07,Acute Diarrhoea,529
+2012-W07,Chickenpox,19
+2012-W08,Acute Upper Respiratory Tract infections,2953
+2012-W08,Acute Conjunctivitis,102
+2012-W08,Acute Diarrhoea,513
+2012-W08,Chickenpox,21
+2012-W09,Acute Upper Respiratory Tract infections,2855
+2012-W09,Acute Conjunctivitis,105
+2012-W09,Acute Diarrhoea,505
+2012-W09,Chickenpox,17
+2012-W10,Acute Upper Respiratory Tract infections,2868
+2012-W10,Acute Conjunctivitis,95
+2012-W10,Acute Diarrhoea,488
+2012-W10,Chickenpox,19
+2012-W11,Acute Upper Respiratory Tract infections,2615
+2012-W11,Acute Conjunctivitis,103
+2012-W11,Acute Diarrhoea,432
+2012-W11,Chickenpox,15
+2012-W12,Acute Upper Respiratory Tract infections,2803
+2012-W12,Acute Conjunctivitis,112
+2012-W12,Acute Diarrhoea,507
+2012-W12,Chickenpox,21
+2012-W13,Acute Upper Respiratory Tract infections,2711
+2012-W13,Acute Conjunctivitis,106
+2012-W13,Acute Diarrhoea,477
+2012-W13,Chickenpox,17
+2012-W14,Acute Upper Respiratory Tract infections,2935
+2012-W14,Acute Conjunctivitis,110
+2012-W14,Acute Diarrhoea,486
+2012-W14,Chickenpox,20
+2012-W15,Acute Upper Respiratory Tract infections,3098
+2012-W15,Acute Conjunctivitis,98
+2012-W15,Acute Diarrhoea,487
+2012-W15,Chickenpox,18
+2012-W16,Acute Upper Respiratory Tract infections,3056
+2012-W16,Acute Conjunctivitis,114
+2012-W16,Acute Diarrhoea,502
+2012-W16,Chickenpox,19
+2012-W17,Acute Upper Respiratory Tract infections,3022
+2012-W17,Acute Conjunctivitis,108
+2012-W17,Acute Diarrhoea,478
+2012-W17,Chickenpox,21
+2012-W18,Acute Upper Respiratory Tract infections,3090
+2012-W18,Acute Conjunctivitis,106
+2012-W18,Acute Diarrhoea,537
+2012-W18,Chickenpox,26
+2012-W19,Acute Upper Respiratory Tract infections,3100
+2012-W19,Acute Conjunctivitis,101
+2012-W19,Acute Diarrhoea,488
+2012-W19,Chickenpox,21
+2012-W20,Acute Upper Respiratory Tract infections,3167
+2012-W20,Acute Conjunctivitis,117
+2012-W20,Acute Diarrhoea,481
+2012-W20,Chickenpox,26
+2012-W21,Acute Upper Respiratory Tract infections,2982
+2012-W21,Acute Conjunctivitis,95
+2012-W21,Acute Diarrhoea,454
+2012-W21,Chickenpox,21
+2012-W22,Acute Upper Respiratory Tract infections,2719
+2012-W22,Acute Conjunctivitis,91
+2012-W22,Acute Diarrhoea,428
+2012-W22,Chickenpox,19
+2012-W23,Acute Upper Respiratory Tract infections,2550
+2012-W23,Acute Conjunctivitis,93
+2012-W23,Acute Diarrhoea,404
+2012-W23,Chickenpox,15
+2012-W24,Acute Upper Respiratory Tract infections,2495
+2012-W24,Acute Conjunctivitis,91
+2012-W24,Acute Diarrhoea,416
+2012-W24,Chickenpox,14
+2012-W25,Acute Upper Respiratory Tract infections,2381
+2012-W25,Acute Conjunctivitis,84
+2012-W25,Acute Diarrhoea,399
+2012-W25,Chickenpox,20
+2012-W26,Acute Upper Respiratory Tract infections,2471
+2012-W26,Acute Conjunctivitis,101
+2012-W26,Acute Diarrhoea,468
+2012-W26,Chickenpox,20
+2012-W27,Acute Upper Respiratory Tract infections,2597
+2012-W27,Acute Conjunctivitis,95
+2012-W27,Acute Diarrhoea,498
+2012-W27,Chickenpox,21
+2012-W28,Acute Upper Respiratory Tract infections,2949
+2012-W28,Acute Conjunctivitis,103
+2012-W28,Acute Diarrhoea,547
+2012-W28,Chickenpox,16
+2012-W29,Acute Upper Respiratory Tract infections,3168
+2012-W29,Acute Conjunctivitis,98
+2012-W29,Acute Diarrhoea,545
+2012-W29,Chickenpox,15
+2012-W30,Acute Upper Respiratory Tract infections,3214
+2012-W30,Acute Conjunctivitis,97
+2012-W30,Acute Diarrhoea,565
+2012-W30,Chickenpox,18
+2012-W31,Acute Upper Respiratory Tract infections,2980
+2012-W31,Acute Conjunctivitis,101
+2012-W31,Acute Diarrhoea,576
+2012-W31,Chickenpox,16
+2012-W32,Acute Upper Respiratory Tract infections,2857
+2012-W32,Acute Conjunctivitis,108
+2012-W32,Acute Diarrhoea,539
+2012-W32,Chickenpox,16
+2012-W33,Acute Upper Respiratory Tract infections,2650
+2012-W33,Acute Conjunctivitis,95
+2012-W33,Acute Diarrhoea,539
+2012-W33,Chickenpox,13
+2012-W34,Acute Upper Respiratory Tract infections,2669
+2012-W34,Acute Conjunctivitis,109
+2012-W34,Acute Diarrhoea,604
+2012-W34,Chickenpox,19
+2012-W35,Acute Upper Respiratory Tract infections,2533
+2012-W35,Acute Conjunctivitis,94
+2012-W35,Acute Diarrhoea,512
+2012-W35,Chickenpox,11
+2012-W36,Acute Upper Respiratory Tract infections,2343
+2012-W36,Acute Conjunctivitis,91
+2012-W36,Acute Diarrhoea,400
+2012-W36,Chickenpox,14
+2012-W37,Acute Upper Respiratory Tract infections,2619
+2012-W37,Acute Conjunctivitis,103
+2012-W37,Acute Diarrhoea,497
+2012-W37,Chickenpox,13
+2012-W38,Acute Upper Respiratory Tract infections,2579
+2012-W38,Acute Conjunctivitis,92
+2012-W38,Acute Diarrhoea,500
+2012-W38,Chickenpox,13
+2012-W39,Acute Upper Respiratory Tract infections,2517
+2012-W39,Acute Conjunctivitis,92
+2012-W39,Acute Diarrhoea,498
+2012-W39,Chickenpox,15
+2012-W40,Acute Upper Respiratory Tract infections,2575
+2012-W40,Acute Conjunctivitis,88
+2012-W40,Acute Diarrhoea,520
+2012-W40,Chickenpox,13
+2012-W41,Acute Upper Respiratory Tract infections,2638
+2012-W41,Acute Conjunctivitis,87
+2012-W41,Acute Diarrhoea,494
+2012-W41,Chickenpox,14
+2012-W42,Acute Upper Respiratory Tract infections,2695
+2012-W42,Acute Conjunctivitis,88
+2012-W42,Acute Diarrhoea,507
+2012-W42,Chickenpox,13
+2012-W43,Acute Upper Respiratory Tract infections,2768
+2012-W43,Acute Conjunctivitis,90
+2012-W43,Acute Diarrhoea,522
+2012-W43,Chickenpox,13
+2012-W44,Acute Upper Respiratory Tract infections,2605
+2012-W44,Acute Conjunctivitis,100
+2012-W44,Acute Diarrhoea,486
+2012-W44,Chickenpox,15
+2012-W45,Acute Upper Respiratory Tract infections,2578
+2012-W45,Acute Conjunctivitis,89
+2012-W45,Acute Diarrhoea,477
+2012-W45,Chickenpox,11
+2012-W46,Acute Upper Respiratory Tract infections,2581
+2012-W46,Acute Conjunctivitis,91
+2012-W46,Acute Diarrhoea,538
+2012-W46,Chickenpox,14
+2012-W47,Acute Upper Respiratory Tract infections,2504
+2012-W47,Acute Conjunctivitis,99
+2012-W47,Acute Diarrhoea,499
+2012-W47,Chickenpox,11
+2012-W48,Acute Upper Respiratory Tract infections,2542
+2012-W48,Acute Conjunctivitis,93
+2012-W48,Acute Diarrhoea,484
+2012-W48,Chickenpox,9
+2012-W49,Acute Upper Respiratory Tract infections,2681
+2012-W49,Acute Conjunctivitis,99
+2012-W49,Acute Diarrhoea,481
+2012-W49,Chickenpox,10
+2012-W50,Acute Upper Respiratory Tract infections,2604
+2012-W50,Acute Conjunctivitis,94
+2012-W50,Acute Diarrhoea,469
+2012-W50,Chickenpox,10
+2012-W51,Acute Upper Respiratory Tract infections,2497
+2012-W51,Acute Conjunctivitis,103
+2012-W51,Acute Diarrhoea,419
+2012-W51,Chickenpox,12
+2012-W52,Acute Upper Respiratory Tract infections,2812
+2012-W52,Acute Conjunctivitis,113
+2012-W52,Acute Diarrhoea,473
+2012-W52,Chickenpox,14
+2013-W01,Acute Upper Respiratory Tract infections,3022
+2013-W01,Acute Conjunctivitis,130
+2013-W01,Acute Diarrhoea,541
+2013-W01,Chickenpox,19
+2013-W02,Acute Upper Respiratory Tract infections,3120
+2013-W02,Acute Conjunctivitis,110
+2013-W02,Acute Diarrhoea,596
+2013-W02,Chickenpox,12
+2013-W03,Acute Upper Respiratory Tract infections,3133
+2013-W03,Acute Conjunctivitis,114
+2013-W03,Acute Diarrhoea,569
+2013-W03,Chickenpox,17
+2013-W04,Acute Upper Respiratory Tract infections,3190
+2013-W04,Acute Conjunctivitis,102
+2013-W04,Acute Diarrhoea,543
+2013-W04,Chickenpox,14
+2013-W05,Acute Upper Respiratory Tract infections,3036
+2013-W05,Acute Conjunctivitis,102
+2013-W05,Acute Diarrhoea,502
+2013-W05,Chickenpox,17
+2013-W06,Acute Upper Respiratory Tract infections,2599
+2013-W06,Acute Conjunctivitis,94
+2013-W06,Acute Diarrhoea,475
+2013-W06,Chickenpox,18
+2013-W07,Acute Upper Respiratory Tract infections,3033
+2013-W07,Acute Conjunctivitis,105
+2013-W07,Acute Diarrhoea,573
+2013-W07,Chickenpox,21
+2013-W08,Acute Upper Respiratory Tract infections,2942
+2013-W08,Acute Conjunctivitis,115
+2013-W08,Acute Diarrhoea,510
+2013-W08,Chickenpox,15
+2013-W09,Acute Upper Respiratory Tract infections,2753
+2013-W09,Acute Conjunctivitis,110
+2013-W09,Acute Diarrhoea,469
+2013-W09,Chickenpox,16
+2013-W10,Acute Upper Respiratory Tract infections,2713
+2013-W10,Acute Conjunctivitis,107
+2013-W10,Acute Diarrhoea,475
+2013-W10,Chickenpox,14
+2013-W11,Acute Upper Respiratory Tract infections,2500
+2013-W11,Acute Conjunctivitis,101
+2013-W11,Acute Diarrhoea,465
+2013-W11,Chickenpox,17
+2013-W12,Acute Upper Respiratory Tract infections,2148
+2013-W12,Acute Conjunctivitis,93
+2013-W12,Acute Diarrhoea,365
+2013-W12,Chickenpox,13
+2013-W13,Acute Upper Respiratory Tract infections,2343
+2013-W13,Acute Conjunctivitis,118
+2013-W13,Acute Diarrhoea,456
+2013-W13,Chickenpox,18
+2013-W14,Acute Upper Respiratory Tract infections,2395
+2013-W14,Acute Conjunctivitis,106
+2013-W14,Acute Diarrhoea,454
+2013-W14,Chickenpox,15
+2013-W15,Acute Upper Respiratory Tract infections,2500
+2013-W15,Acute Conjunctivitis,103
+2013-W15,Acute Diarrhoea,461
+2013-W15,Chickenpox,14
+2013-W16,Acute Upper Respiratory Tract infections,2688
+2013-W16,Acute Conjunctivitis,95
+2013-W16,Acute Diarrhoea,459
+2013-W16,Chickenpox,16
+2013-W17,Acute Upper Respiratory Tract infections,2699
+2013-W17,Acute Conjunctivitis,95
+2013-W17,Acute Diarrhoea,444
+2013-W17,Chickenpox,13
+2013-W18,Acute Upper Respiratory Tract infections,2854
+2013-W18,Acute Conjunctivitis,90
+2013-W18,Acute Diarrhoea,492
+2013-W18,Chickenpox,21
+2013-W19,Acute Upper Respiratory Tract infections,2747
+2013-W19,Acute Conjunctivitis,91
+2013-W19,Acute Diarrhoea,478
+2013-W19,Chickenpox,14
+2013-W20,Acute Upper Respiratory Tract infections,2519
+2013-W20,Acute Conjunctivitis,90
+2013-W20,Acute Diarrhoea,452
+2013-W20,Chickenpox,18
+2013-W21,Acute Upper Respiratory Tract infections,2726
+2013-W21,Acute Conjunctivitis,90
+2013-W21,Acute Diarrhoea,452
+2013-W21,Chickenpox,11
+2013-W22,Acute Upper Respiratory Tract infections,2733
+2013-W22,Acute Conjunctivitis,85
+2013-W22,Acute Diarrhoea,460
+2013-W22,Chickenpox,13
+2013-W23,Acute Upper Respiratory Tract infections,2434
+2013-W23,Acute Conjunctivitis,76
+2013-W23,Acute Diarrhoea,403
+2013-W23,Chickenpox,9
+2013-W24,Acute Upper Respiratory Tract infections,2330
+2013-W24,Acute Conjunctivitis,80
+2013-W24,Acute Diarrhoea,378
+2013-W24,Chickenpox,10
+2013-W25,Acute Upper Respiratory Tract infections,2755
+2013-W25,Acute Conjunctivitis,104
+2013-W25,Acute Diarrhoea,317
+2013-W25,Chickenpox,13
+2013-W26,Acute Upper Respiratory Tract infections,2413
+2013-W26,Acute Conjunctivitis,91
+2013-W26,Acute Diarrhoea,372
+2013-W26,Chickenpox,10
+2013-W27,Acute Upper Respiratory Tract infections,2368
+2013-W27,Acute Conjunctivitis,88
+2013-W27,Acute Diarrhoea,501
+2013-W27,Chickenpox,14
+2013-W28,Acute Upper Respiratory Tract infections,2371
+2013-W28,Acute Conjunctivitis,84
+2013-W28,Acute Diarrhoea,523
+2013-W28,Chickenpox,15
+2013-W29,Acute Upper Respiratory Tract infections,2543
+2013-W29,Acute Conjunctivitis,88
+2013-W29,Acute Diarrhoea,544
+2013-W29,Chickenpox,14
+2013-W30,Acute Upper Respiratory Tract infections,2423
+2013-W30,Acute Conjunctivitis,85
+2013-W30,Acute Diarrhoea,525
+2013-W30,Chickenpox,15
+2013-W31,Acute Upper Respiratory Tract infections,2476
+2013-W31,Acute Conjunctivitis,91
+2013-W31,Acute Diarrhoea,544
+2013-W31,Chickenpox,20
+2013-W32,Acute Upper Respiratory Tract infections,2426
+2013-W32,Acute Conjunctivitis,91
+2013-W32,Acute Diarrhoea,547
+2013-W32,Chickenpox,15
+2013-W33,Acute Upper Respiratory Tract infections,2700
+2013-W33,Acute Conjunctivitis,97
+2013-W33,Acute Diarrhoea,586
+2013-W33,Chickenpox,18
+2013-W34,Acute Upper Respiratory Tract infections,2565
+2013-W34,Acute Conjunctivitis,100
+2013-W34,Acute Diarrhoea,547
+2013-W34,Chickenpox,22
+2013-W35,Acute Upper Respiratory Tract infections,2380
+2013-W35,Acute Conjunctivitis,88
+2013-W35,Acute Diarrhoea,508
+2013-W35,Chickenpox,16
+2013-W36,Acute Upper Respiratory Tract infections,2262
+2013-W36,Acute Conjunctivitis,92
+2013-W36,Acute Diarrhoea,455
+2013-W36,Chickenpox,15
+2013-W37,Acute Upper Respiratory Tract infections,2211
+2013-W37,Acute Conjunctivitis,84
+2013-W37,Acute Diarrhoea,454
+2013-W37,Chickenpox,15
+2013-W38,Acute Upper Respiratory Tract infections,2373
+2013-W38,Acute Conjunctivitis,98
+2013-W38,Acute Diarrhoea,515
+2013-W38,Chickenpox,25
+2013-W39,Acute Upper Respiratory Tract infections,2180
+2013-W39,Acute Conjunctivitis,91
+2013-W39,Acute Diarrhoea,490
+2013-W39,Chickenpox,20
+2013-W40,Acute Upper Respiratory Tract infections,2301
+2013-W40,Acute Conjunctivitis,82
+2013-W40,Acute Diarrhoea,472
+2013-W40,Chickenpox,21
+2013-W41,Acute Upper Respiratory Tract infections,2429
+2013-W41,Acute Conjunctivitis,90
+2013-W41,Acute Diarrhoea,453
+2013-W41,Chickenpox,17
+2013-W42,Acute Upper Respiratory Tract infections,2429
+2013-W42,Acute Conjunctivitis,86
+2013-W42,Acute Diarrhoea,481
+2013-W42,Chickenpox,21
+2013-W43,Acute Upper Respiratory Tract infections,2401
+2013-W43,Acute Conjunctivitis,80
+2013-W43,Acute Diarrhoea,456
+2013-W43,Chickenpox,18
+2013-W44,Acute Upper Respiratory Tract infections,2155
+2013-W44,Acute Conjunctivitis,77
+2013-W44,Acute Diarrhoea,397
+2013-W44,Chickenpox,16
+2013-W45,Acute Upper Respiratory Tract infections,3018
+2013-W45,Acute Conjunctivitis,97
+2013-W45,Acute Diarrhoea,515
+2013-W45,Chickenpox,19
+2013-W46,Acute Upper Respiratory Tract infections,2494
+2013-W46,Acute Conjunctivitis,86
+2013-W46,Acute Diarrhoea,420
+2013-W46,Chickenpox,13
+2013-W47,Acute Upper Respiratory Tract infections,2576
+2013-W47,Acute Conjunctivitis,87
+2013-W47,Acute Diarrhoea,387
+2013-W47,Chickenpox,16
+2013-W48,Acute Upper Respiratory Tract infections,2363
+2013-W48,Acute Conjunctivitis,79
+2013-W48,Acute Diarrhoea,398
+2013-W48,Chickenpox,14
+2013-W49,Acute Upper Respiratory Tract infections,2526
+2013-W49,Acute Conjunctivitis,91
+2013-W49,Acute Diarrhoea,423
+2013-W49,Chickenpox,11
+2013-W50,Acute Upper Respiratory Tract infections,2509
+2013-W50,Acute Conjunctivitis,76
+2013-W50,Acute Diarrhoea,396
+2013-W50,Chickenpox,10
+2013-W51,Acute Upper Respiratory Tract infections,2458
+2013-W51,Acute Conjunctivitis,74
+2013-W51,Acute Diarrhoea,369
+2013-W51,Chickenpox,8
+2013-W52,Acute Upper Respiratory Tract infections,2605
+2013-W52,Acute Conjunctivitis,88
+2013-W52,Acute Diarrhoea,420
+2013-W52,Chickenpox,16
+2014-W01,Acute Upper Respiratory Tract infections,2766
+2014-W01,Acute Conjunctivitis,96
+2014-W01,Acute Diarrhoea,476
+2014-W01,Chickenpox,19
+2014-W02,Acute Upper Respiratory Tract infections,2805
+2014-W02,Acute Conjunctivitis,92
+2014-W02,Acute Diarrhoea,490
+2014-W02,Chickenpox,13
+2014-W03,Acute Upper Respiratory Tract infections,3124
+2014-W03,Acute Conjunctivitis,100
+2014-W03,Acute Diarrhoea,519
+2014-W03,Chickenpox,15
+2014-W04,Acute Upper Respiratory Tract infections,3288
+2014-W04,Acute Conjunctivitis,104
+2014-W04,Acute Diarrhoea,471
+2014-W04,Chickenpox,15
+2014-W05,Acute Upper Respiratory Tract infections,3242
+2014-W05,Acute Conjunctivitis,102
+2014-W05,Acute Diarrhoea,479
+2014-W05,Chickenpox,14
+2014-W06,Acute Upper Respiratory Tract infections,3200
+2014-W06,Acute Conjunctivitis,114
+2014-W06,Acute Diarrhoea,490
+2014-W06,Chickenpox,18
+2014-W07,Acute Upper Respiratory Tract infections,2793
+2014-W07,Acute Conjunctivitis,100
+2014-W07,Acute Diarrhoea,524
+2014-W07,Chickenpox,19
+2014-W08,Acute Upper Respiratory Tract infections,2590
+2014-W08,Acute Conjunctivitis,104
+2014-W08,Acute Diarrhoea,461
+2014-W08,Chickenpox,17
+2014-W09,Acute Upper Respiratory Tract infections,2576
+2014-W09,Acute Conjunctivitis,100
+2014-W09,Acute Diarrhoea,424
+2014-W09,Chickenpox,20
+2014-W10,Acute Upper Respiratory Tract infections,2473
+2014-W10,Acute Conjunctivitis,99
+2014-W10,Acute Diarrhoea,452
+2014-W10,Chickenpox,17
+2014-W11,Acute Upper Respiratory Tract infections,2493
+2014-W11,Acute Conjunctivitis,98
+2014-W11,Acute Diarrhoea,406
+2014-W11,Chickenpox,18
+2014-W12,Acute Upper Respiratory Tract infections,2003
+2014-W12,Acute Conjunctivitis,72
+2014-W12,Acute Diarrhoea,359
+2014-W12,Chickenpox,12
+2014-W13,Acute Upper Respiratory Tract infections,2198
+2014-W13,Acute Conjunctivitis,83
+2014-W13,Acute Diarrhoea,452
+2014-W13,Chickenpox,15
+2014-W14,Acute Upper Respiratory Tract infections,2059
+2014-W14,Acute Conjunctivitis,74
+2014-W14,Acute Diarrhoea,424
+2014-W14,Chickenpox,19
+2014-W15,Acute Upper Respiratory Tract infections,2248
+2014-W15,Acute Conjunctivitis,81
+2014-W15,Acute Diarrhoea,451
+2014-W15,Chickenpox,15
+2014-W16,Acute Upper Respiratory Tract infections,2367
+2014-W16,Acute Conjunctivitis,85
+2014-W16,Acute Diarrhoea,443
+2014-W16,Chickenpox,16
+2014-W17,Acute Upper Respiratory Tract infections,2588
+2014-W17,Acute Conjunctivitis,84
+2014-W17,Acute Diarrhoea,479
+2014-W17,Chickenpox,19
+2014-W18,Acute Upper Respiratory Tract infections,2601
+2014-W18,Acute Conjunctivitis,81
+2014-W18,Acute Diarrhoea,556
+2014-W18,Chickenpox,17
+2014-W19,Acute Upper Respiratory Tract infections,2522
+2014-W19,Acute Conjunctivitis,79
+2014-W19,Acute Diarrhoea,469
+2014-W19,Chickenpox,16
+2014-W20,Acute Upper Respiratory Tract infections,2630
+2014-W20,Acute Conjunctivitis,76
+2014-W20,Acute Diarrhoea,477
+2014-W20,Chickenpox,22
+2014-W21,Acute Upper Respiratory Tract infections,2754
+2014-W21,Acute Conjunctivitis,73
+2014-W21,Acute Diarrhoea,477
+2014-W21,Chickenpox,17
+2014-W22,Acute Upper Respiratory Tract infections,2649
+2014-W22,Acute Conjunctivitis,73
+2014-W22,Acute Diarrhoea,454
+2014-W22,Chickenpox,17
+2014-W23,Acute Upper Respiratory Tract infections,2512
+2014-W23,Acute Conjunctivitis,76
+2014-W23,Acute Diarrhoea,435
+2014-W23,Chickenpox,12
+2014-W24,Acute Upper Respiratory Tract infections,2448
+2014-W24,Acute Conjunctivitis,79
+2014-W24,Acute Diarrhoea,424
+2014-W24,Chickenpox,13
+2014-W25,Acute Upper Respiratory Tract infections,2382
+2014-W25,Acute Conjunctivitis,74
+2014-W25,Acute Diarrhoea,411
+2014-W25,Chickenpox,14
+2014-W26,Acute Upper Respiratory Tract infections,2292
+2014-W26,Acute Conjunctivitis,67
+2014-W26,Acute Diarrhoea,430
+2014-W26,Chickenpox,11
+2014-W27,Acute Upper Respiratory Tract infections,2496
+2014-W27,Acute Conjunctivitis,77
+2014-W27,Acute Diarrhoea,495
+2014-W27,Chickenpox,16
+2014-W28,Acute Upper Respiratory Tract infections,2629
+2014-W28,Acute Conjunctivitis,93
+2014-W28,Acute Diarrhoea,553
+2014-W28,Chickenpox,14
+2014-W29,Acute Upper Respiratory Tract infections,2769
+2014-W29,Acute Conjunctivitis,98
+2014-W29,Acute Diarrhoea,559
+2014-W29,Chickenpox,13
+2014-W30,Acute Upper Respiratory Tract infections,2665
+2014-W30,Acute Conjunctivitis,88
+2014-W30,Acute Diarrhoea,532
+2014-W30,Chickenpox,13
+2014-W31,Acute Upper Respiratory Tract infections,2647
+2014-W31,Acute Conjunctivitis,101
+2014-W31,Acute Diarrhoea,652
+2014-W31,Chickenpox,16
+2014-W32,Acute Upper Respiratory Tract infections,2683
+2014-W32,Acute Conjunctivitis,121
+2014-W32,Acute Diarrhoea,563
+2014-W32,Chickenpox,15
+2014-W33,Acute Upper Respiratory Tract infections,2654
+2014-W33,Acute Conjunctivitis,104
+2014-W33,Acute Diarrhoea,513
+2014-W33,Chickenpox,15
+2014-W34,Acute Upper Respiratory Tract infections,2691
+2014-W34,Acute Conjunctivitis,140
+2014-W34,Acute Diarrhoea,521
+2014-W34,Chickenpox,12
+2014-W35,Acute Upper Respiratory Tract infections,2576
+2014-W35,Acute Conjunctivitis,155
+2014-W35,Acute Diarrhoea,525
+2014-W35,Chickenpox,14
+2014-W36,Acute Upper Respiratory Tract infections,2517
+2014-W36,Acute Conjunctivitis,168
+2014-W36,Acute Diarrhoea,485
+2014-W36,Chickenpox,14
+2014-W37,Acute Upper Respiratory Tract infections,2244
+2014-W37,Acute Conjunctivitis,127
+2014-W37,Acute Diarrhoea,425
+2014-W37,Chickenpox,12
+2014-W38,Acute Upper Respiratory Tract infections,2283
+2014-W38,Acute Conjunctivitis,132
+2014-W38,Acute Diarrhoea,484
+2014-W38,Chickenpox,13
+2014-W39,Acute Upper Respiratory Tract infections,2099
+2014-W39,Acute Conjunctivitis,121
+2014-W39,Acute Diarrhoea,452
+2014-W39,Chickenpox,15
+2014-W40,Acute Upper Respiratory Tract infections,1839
+2014-W40,Acute Conjunctivitis,99
+2014-W40,Acute Diarrhoea,437
+2014-W40,Chickenpox,10
+2014-W41,Acute Upper Respiratory Tract infections,2043
+2014-W41,Acute Conjunctivitis,108
+2014-W41,Acute Diarrhoea,514
+2014-W41,Chickenpox,11
+2014-W42,Acute Upper Respiratory Tract infections,1947
+2014-W42,Acute Conjunctivitis,89
+2014-W42,Acute Diarrhoea,465
+2014-W42,Chickenpox,8
+2014-W43,Acute Upper Respiratory Tract infections,2049
+2014-W43,Acute Conjunctivitis,84
+2014-W43,Acute Diarrhoea,497
+2014-W43,Chickenpox,15
+2014-W44,Acute Upper Respiratory Tract infections,2006
+2014-W44,Acute Conjunctivitis,85
+2014-W44,Acute Diarrhoea,436
+2014-W44,Chickenpox,12
+2014-W45,Acute Upper Respiratory Tract infections,2082
+2014-W45,Acute Conjunctivitis,81
+2014-W45,Acute Diarrhoea,422
+2014-W45,Chickenpox,13
+2014-W46,Acute Upper Respiratory Tract infections,2140
+2014-W46,Acute Conjunctivitis,79
+2014-W46,Acute Diarrhoea,411
+2014-W46,Chickenpox,14
+2014-W47,Acute Upper Respiratory Tract infections,2226
+2014-W47,Acute Conjunctivitis,79
+2014-W47,Acute Diarrhoea,405
+2014-W47,Chickenpox,11
+2014-W48,Acute Upper Respiratory Tract infections,2204
+2014-W48,Acute Conjunctivitis,79
+2014-W48,Acute Diarrhoea,391
+2014-W48,Chickenpox,11
+2014-W49,Acute Upper Respiratory Tract infections,2235
+2014-W49,Acute Conjunctivitis,79
+2014-W49,Acute Diarrhoea,420
+2014-W49,Chickenpox,11
+2014-W50,Acute Upper Respiratory Tract infections,2315
+2014-W50,Acute Conjunctivitis,77
+2014-W50,Acute Diarrhoea,418
+2014-W50,Chickenpox,12
+2014-W51,Acute Upper Respiratory Tract infections,2177
+2014-W51,Acute Conjunctivitis,79
+2014-W51,Acute Diarrhoea,410
+2014-W51,Chickenpox,12
+2014-W52,Acute Upper Respiratory Tract infections,2407
+2014-W52,Acute Conjunctivitis,90
+2014-W52,Acute Diarrhoea,410
+2014-W52,Chickenpox,14
+2014-W52,Chickenpox,19
+2014-W53,Acute Upper Respiratory Tract infections,2732
+2014-W53,Acute Conjunctivitis,90
+2014-W53,Acute Diarrhoea,476
+2015-W01,Acute Upper Respiratory Tract infections,2822
+2015-W01,Acute Conjunctivitis,107
+2015-W01,Acute Diarrhoea,509
+2015-W01,Chickenpox,13
+2015-W02,Acute Upper Respiratory Tract infections,2921
+2015-W02,Acute Conjunctivitis,104
+2015-W02,Acute Diarrhoea,514
+2015-W02,Chickenpox,16
+2015-W03,Acute Upper Respiratory Tract infections,3035
+2015-W03,Acute Conjunctivitis,99
+2015-W03,Acute Diarrhoea,508
+2015-W03,Chickenpox,17
+2015-W04,Acute Upper Respiratory Tract infections,2918
+2015-W04,Acute Conjunctivitis,107
+2015-W04,Acute Diarrhoea,442
+2015-W04,Chickenpox,14
+2015-W05,Acute Upper Respiratory Tract infections,2931
+2015-W05,Acute Conjunctivitis,90
+2015-W05,Acute Diarrhoea,474
+2015-W05,Chickenpox,19
+2015-W06,Acute Upper Respiratory Tract infections,2997
+2015-W06,Acute Conjunctivitis,91
+2015-W06,Acute Diarrhoea,465
+2015-W06,Chickenpox,14
+2015-W07,Acute Upper Respiratory Tract infections,2959
+2015-W07,Acute Conjunctivitis,96
+2015-W07,Acute Diarrhoea,414
+2015-W07,Chickenpox,23
+2015-W08,Acute Upper Respiratory Tract infections,2821
+2015-W08,Acute Conjunctivitis,94
+2015-W08,Acute Diarrhoea,517
+2015-W08,Chickenpox,20
+2015-W09,Acute Upper Respiratory Tract infections,2590
+2015-W09,Acute Conjunctivitis,96
+2015-W09,Acute Diarrhoea,494
+2015-W09,Chickenpox,14
+2015-W10,Acute Upper Respiratory Tract infections,2513
+2015-W10,Acute Conjunctivitis,86
+2015-W10,Acute Diarrhoea,481
+2015-W10,Chickenpox,19
+2015-W11,Acute Upper Respiratory Tract infections,2288
+2015-W11,Acute Conjunctivitis,82
+2015-W11,Acute Diarrhoea,405
+2015-W11,Chickenpox,18
+2015-W12,Acute Upper Respiratory Tract infections,2401
+2015-W12,Acute Conjunctivitis,83
+2015-W12,Acute Diarrhoea,448
+2015-W12,Chickenpox,15
+2015-W13,Acute Upper Respiratory Tract infections,2341
+2015-W13,Acute Conjunctivitis,75
+2015-W13,Acute Diarrhoea,416
+2015-W13,Chickenpox,14
+2015-W14,Acute Upper Respiratory Tract infections,2366
+2015-W14,Acute Conjunctivitis,84
+2015-W14,Acute Diarrhoea,463
+2015-W14,Chickenpox,14
+2015-W15,Acute Upper Respiratory Tract infections,2469
+2015-W15,Acute Conjunctivitis,92
+2015-W15,Acute Diarrhoea,497
+2015-W15,Chickenpox,15
+2015-W16,Acute Upper Respiratory Tract infections,2534
+2015-W16,Acute Conjunctivitis,85
+2015-W16,Acute Diarrhoea,480
+2015-W16,Chickenpox,13
+2015-W17,Acute Upper Respiratory Tract infections,2645
+2015-W17,Acute Conjunctivitis,78
+2015-W17,Acute Diarrhoea,468
+2015-W17,Chickenpox,15
+2015-W18,Acute Upper Respiratory Tract infections,2882
+2015-W18,Acute Conjunctivitis,87
+2015-W18,Acute Diarrhoea,515
+2015-W18,Chickenpox,13
+2015-W19,Acute Upper Respiratory Tract infections,2757
+2015-W19,Acute Conjunctivitis,79
+2015-W19,Acute Diarrhoea,482
+2015-W19,Chickenpox,21
+2015-W20,Acute Upper Respiratory Tract infections,2828
+2015-W20,Acute Conjunctivitis,82
+2015-W20,Acute Diarrhoea,495
+2015-W20,Chickenpox,20
+2015-W21,Acute Upper Respiratory Tract infections,3001
+2015-W21,Acute Conjunctivitis,94
+2015-W21,Acute Diarrhoea,492
+2015-W21,Chickenpox,16
+2015-W22,Acute Upper Respiratory Tract infections,2844
+2015-W22,Acute Conjunctivitis,80
+2015-W22,Acute Diarrhoea,422
+2015-W22,Chickenpox,13
+2015-W23,Acute Upper Respiratory Tract infections,2637
+2015-W23,Acute Conjunctivitis,79
+2015-W23,Acute Diarrhoea,422
+2015-W23,Chickenpox,12
+2015-W24,Acute Upper Respiratory Tract infections,2631
+2015-W24,Acute Conjunctivitis,65
+2015-W24,Acute Diarrhoea,399
+2015-W24,Chickenpox,10
+2015-W25,Acute Upper Respiratory Tract infections,2651
+2015-W25,Acute Conjunctivitis,69
+2015-W25,Acute Diarrhoea,442
+2015-W25,Chickenpox,12
+2015-W26,Acute Upper Respiratory Tract infections,2319
+2015-W26,Acute Conjunctivitis,81
+2015-W26,Acute Diarrhoea,493
+2015-W26,Chickenpox,11
+2015-W27,Acute Upper Respiratory Tract infections,2357
+2015-W27,Acute Conjunctivitis,83
+2015-W27,Acute Diarrhoea,530
+2015-W27,Chickenpox,13
+2015-W28,Acute Upper Respiratory Tract infections,2318
+2015-W28,Acute Conjunctivitis,68
+2015-W28,Acute Diarrhoea,554
+2015-W28,Chickenpox,12
+2015-W29,Acute Upper Respiratory Tract infections,2455
+2015-W29,Acute Conjunctivitis,70
+2015-W29,Acute Diarrhoea,555
+2015-W29,Chickenpox,11
+2015-W30,Acute Upper Respiratory Tract infections,2392
+2015-W30,Acute Conjunctivitis,76
+2015-W30,Acute Diarrhoea,510
+2015-W30,Chickenpox,9
+2015-W31,Acute Upper Respiratory Tract infections,2475
+2015-W31,Acute Conjunctivitis,74
+2015-W31,Acute Diarrhoea,516
+2015-W31,Chickenpox,13
+2015-W32,Acute Upper Respiratory Tract infections,2880
+2015-W32,Acute Conjunctivitis,76
+2015-W32,Acute Diarrhoea,576
+2015-W32,Chickenpox,13
+2015-W33,Acute Upper Respiratory Tract infections,2810
+2015-W33,Acute Conjunctivitis,78
+2015-W33,Acute Diarrhoea,517
+2015-W33,Chickenpox,15
+2015-W34,Acute Upper Respiratory Tract infections,2625
+2015-W34,Acute Conjunctivitis,80
+2015-W34,Acute Diarrhoea,477
+2015-W34,Chickenpox,17
+2015-W35,Acute Upper Respiratory Tract infections,2423
+2015-W35,Acute Conjunctivitis,75
+2015-W35,Acute Diarrhoea,439
+2015-W35,Chickenpox,12
+2015-W36,Acute Upper Respiratory Tract infections,2280
+2015-W36,Acute Conjunctivitis,84
+2015-W36,Acute Diarrhoea,396
+2015-W36,Chickenpox,15
+2015-W37,Acute Upper Respiratory Tract infections,2821
+2015-W37,Acute Conjunctivitis,95
+2015-W37,Acute Diarrhoea,413
+2015-W37,Chickenpox,14
+2015-W38,Acute Upper Respiratory Tract infections,2738
+2015-W38,Acute Conjunctivitis,97
+2015-W38,Acute Diarrhoea,430
+2015-W38,Chickenpox,16
+2015-W39,Acute Upper Respiratory Tract infections,2929
+2015-W39,Acute Conjunctivitis,101
+2015-W39,Acute Diarrhoea,395
+2015-W39,Chickenpox,14
+2015-W40,Acute Upper Respiratory Tract infections,2619
+2015-W40,Acute Conjunctivitis,84
+2015-W40,Acute Diarrhoea,433
+2015-W40,Chickenpox,14
+2015-W41,Acute Upper Respiratory Tract infections,2529
+2015-W41,Acute Conjunctivitis,75
+2015-W41,Acute Diarrhoea,443
+2015-W41,Chickenpox,13
+2015-W42,Acute Upper Respiratory Tract infections,2612
+2015-W42,Acute Conjunctivitis,81
+2015-W42,Acute Diarrhoea,452
+2015-W42,Chickenpox,12
+2015-W43,Acute Upper Respiratory Tract infections,2588
+2015-W43,Acute Conjunctivitis,88
+2015-W43,Acute Diarrhoea,432
+2015-W43,Chickenpox,13
+2015-W44,Acute Upper Respiratory Tract infections,2533
+2015-W44,Acute Conjunctivitis,75
+2015-W44,Acute Diarrhoea,453
+2015-W44,Chickenpox,14
+2015-W45,Acute Upper Respiratory Tract infections,2721
+2015-W45,Acute Conjunctivitis,71
+2015-W45,Acute Diarrhoea,519
+2015-W45,Chickenpox,17
+2015-W46,Acute Upper Respiratory Tract infections,2673
+2015-W46,Acute Conjunctivitis,70
+2015-W46,Acute Diarrhoea,460
+2015-W46,Chickenpox,11
+2015-W47,Acute Upper Respiratory Tract infections,2488
+2015-W47,Acute Conjunctivitis,65
+2015-W47,Acute Diarrhoea,455
+2015-W47,Chickenpox,13
+2015-W48,Acute Upper Respiratory Tract infections,2455
+2015-W48,Acute Conjunctivitis,68
+2015-W48,Acute Diarrhoea,447
+2015-W48,Chickenpox,7
+2015-W49,Acute Upper Respiratory Tract infections,2319
+2015-W49,Acute Conjunctivitis,76
+2015-W49,Acute Diarrhoea,438
+2015-W49,Chickenpox,9
+2015-W50,Acute Upper Respiratory Tract infections,2304
+2015-W50,Acute Conjunctivitis,77
+2015-W50,Acute Diarrhoea,429
+2015-W50,Chickenpox,10
+2015-W51,Acute Upper Respiratory Tract infections,2414
+2015-W51,Acute Conjunctivitis,89
+2015-W51,Acute Diarrhoea,436
+2015-W51,Chickenpox,15
+2015-W52,Acute Upper Respiratory Tract infections,2494
+2015-W52,Acute Conjunctivitis,97
+2015-W52,Acute Diarrhoea,468
+2015-W52,Chickenpox,15
+2016-W01,Acute Upper Respiratory Tract infections,2604
+2016-W01,Acute Conjunctivitis,94
+2016-W01,Acute Diarrhoea,492
+2016-W01,Chickenpox,15
+2016-W02,Acute Upper Respiratory Tract infections,2775
+2016-W02,Acute Conjunctivitis,86
+2016-W02,Acute Diarrhoea,513
+2016-W02,Chickenpox,15
+2016-W03,Acute Upper Respiratory Tract infections,2946
+2016-W03,Acute Conjunctivitis,83
+2016-W03,Acute Diarrhoea,521
+2016-W03,Chickenpox,16
+2016-W04,Acute Upper Respiratory Tract infections,3111
+2016-W04,Acute Conjunctivitis,62
+2016-W04,Acute Diarrhoea,529
+2016-W04,Chickenpox,14
+2016-W05,Acute Upper Respiratory Tract infections,3125
+2016-W05,Acute Conjunctivitis,75
+2016-W05,Acute Diarrhoea,519
+2016-W05,Chickenpox,11
+2016-W06,Acute Upper Respiratory Tract infections,3740
+2016-W06,Acute Conjunctivitis,92
+2016-W06,Acute Diarrhoea,624
+2016-W06,Chickenpox,17
+2016-W07,Acute Upper Respiratory Tract infections,3174
+2016-W07,Acute Conjunctivitis,87
+2016-W07,Acute Diarrhoea,538
+2016-W07,Chickenpox,17
+2016-W08,Acute Upper Respiratory Tract infections,3148
+2016-W08,Acute Conjunctivitis,82
+2016-W08,Acute Diarrhoea,508
+2016-W08,Chickenpox,13
+2016-W09,Acute Upper Respiratory Tract infections,3001
+2016-W09,Acute Conjunctivitis,86
+2016-W09,Acute Diarrhoea,456
+2016-W09,Chickenpox,15
+2016-W10,Acute Upper Respiratory Tract infections,2702
+2016-W10,Acute Conjunctivitis,81
+2016-W10,Acute Diarrhoea,490
+2016-W10,Chickenpox,15
+2016-W11,Acute Upper Respiratory Tract infections,2382
+2016-W11,Acute Conjunctivitis,73
+2016-W11,Acute Diarrhoea,419
+2016-W11,Chickenpox,14
+2016-W12,Acute Upper Respiratory Tract infections,2596
+2016-W12,Acute Conjunctivitis,91
+2016-W12,Acute Diarrhoea,472
+2016-W12,Chickenpox,18
+2016-W13,Acute Upper Respiratory Tract infections,2530
+2016-W13,Acute Conjunctivitis,78
+2016-W13,Acute Diarrhoea,449
+2016-W13,Chickenpox,14
+2016-W14,Acute Upper Respiratory Tract infections,2417
+2016-W14,Acute Conjunctivitis,71
+2016-W14,Acute Diarrhoea,465
+2016-W14,Chickenpox,14
+2016-W15,Acute Upper Respiratory Tract infections,2383
+2016-W15,Acute Conjunctivitis,73
+2016-W15,Acute Diarrhoea,475
+2016-W15,Chickenpox,12
+2016-W16,Acute Upper Respiratory Tract infections,2487
+2016-W16,Acute Conjunctivitis,71
+2016-W16,Acute Diarrhoea,471
+2016-W16,Chickenpox,14
+2016-W17,Acute Upper Respiratory Tract infections,2520
+2016-W17,Acute Conjunctivitis,74
+2016-W17,Acute Diarrhoea,494
+2016-W17,Chickenpox,14
+2016-W18,Acute Upper Respiratory Tract infections,2715
+2016-W18,Acute Conjunctivitis,73
+2016-W18,Acute Diarrhoea,516
+2016-W18,Chickenpox,16
+2016-W19,Acute Upper Respiratory Tract infections,2648
+2016-W19,Acute Conjunctivitis,73
+2016-W19,Acute Diarrhoea,504
+2016-W19,Chickenpox,15
+2016-W20,Acute Upper Respiratory Tract infections,2853
+2016-W20,Acute Conjunctivitis,72
+2016-W20,Acute Diarrhoea,547
+2016-W20,Chickenpox,14
+2016-W21,Acute Upper Respiratory Tract infections,2775
+2016-W21,Acute Conjunctivitis,70
+2016-W21,Acute Diarrhoea,492
+2016-W21,Chickenpox,15
+2016-W22,Acute Upper Respiratory Tract infections,2634
+2016-W22,Acute Conjunctivitis,70
+2016-W22,Acute Diarrhoea,453
+2016-W22,Chickenpox,9
+2016-W23,Acute Upper Respiratory Tract infections,2521
+2016-W23,Acute Conjunctivitis,71
+2016-W23,Acute Diarrhoea,418
+2016-W23,Chickenpox,10
+2016-W24,Acute Upper Respiratory Tract infections,2564
+2016-W24,Acute Conjunctivitis,66
+2016-W24,Acute Diarrhoea,445
+2016-W24,Chickenpox,12
+2016-W25,Acute Upper Respiratory Tract infections,2819
+2016-W25,Acute Conjunctivitis,77
+2016-W25,Acute Diarrhoea,445
+2016-W25,Chickenpox,11
+2016-W26,Acute Upper Respiratory Tract infections,3021
+2016-W26,Acute Conjunctivitis,83
+2016-W26,Acute Diarrhoea,521
+2016-W26,Chickenpox,15
+2016-W27,Acute Upper Respiratory Tract infections,2989
+2016-W27,Acute Conjunctivitis,84
+2016-W27,Acute Diarrhoea,634
+2016-W27,Chickenpox,19
+2016-W28,Acute Upper Respiratory Tract infections,2940
+2016-W28,Acute Conjunctivitis,78
+2016-W28,Acute Diarrhoea,593
+2016-W28,Chickenpox,13
+2016-W29,Acute Upper Respiratory Tract infections,3427
+2016-W29,Acute Conjunctivitis,72
+2016-W29,Acute Diarrhoea,587
+2016-W29,Chickenpox,11
+2016-W30,Acute Upper Respiratory Tract infections,3566
+2016-W30,Acute Conjunctivitis,74
+2016-W30,Acute Diarrhoea,571
+2016-W30,Chickenpox,14
+2016-W31,Acute Upper Respiratory Tract infections,3499
+2016-W31,Acute Conjunctivitis,83
+2016-W31,Acute Diarrhoea,551
+2016-W31,Chickenpox,12
+2016-W32,Acute Upper Respiratory Tract infections,3233
+2016-W32,Acute Conjunctivitis,81
+2016-W32,Acute Diarrhoea,592
+2016-W32,Chickenpox,17
+2016-W33,Acute Upper Respiratory Tract infections,2834
+2016-W33,Acute Conjunctivitis,77
+2016-W33,Acute Diarrhoea,550
+2016-W33,Chickenpox,13
+2016-W34,Acute Upper Respiratory Tract infections,2687
+2016-W34,Acute Conjunctivitis,78
+2016-W34,Acute Diarrhoea,521
+2016-W34,Chickenpox,14
+2016-W35,Acute Upper Respiratory Tract infections,2573
+2016-W35,Acute Conjunctivitis,82
+2016-W35,Acute Diarrhoea,501
+2016-W35,Chickenpox,15
+2016-W36,Acute Upper Respiratory Tract infections,2371
+2016-W36,Acute Conjunctivitis,75
+2016-W36,Acute Diarrhoea,453
+2016-W36,Chickenpox,10
+2016-W37,Acute Upper Respiratory Tract infections,2566
+2016-W37,Acute Conjunctivitis,88
+2016-W37,Acute Diarrhoea,617
+2016-W37,Chickenpox,14
+2016-W38,Acute Upper Respiratory Tract infections,2449
+2016-W38,Acute Conjunctivitis,83
+2016-W38,Acute Diarrhoea,554
+2016-W38,Chickenpox,11
+2016-W39,Acute Upper Respiratory Tract infections,2384
+2016-W39,Acute Conjunctivitis,84
+2016-W39,Acute Diarrhoea,525
+2016-W39,Chickenpox,17
+2016-W40,Acute Upper Respiratory Tract infections,2378
+2016-W40,Acute Conjunctivitis,73
+2016-W40,Acute Diarrhoea,559
+2016-W40,Chickenpox,14
+2016-W41,Acute Upper Respiratory Tract infections,2423
+2016-W41,Acute Conjunctivitis,78
+2016-W41,Acute Diarrhoea,582
+2016-W41,Chickenpox,20
+2016-W42,Acute Upper Respiratory Tract infections,2408
+2016-W42,Acute Conjunctivitis,76
+2016-W42,Acute Diarrhoea,565
+2016-W42,Chickenpox,19
+2016-W43,Acute Upper Respiratory Tract infections,2398
+2016-W43,Acute Conjunctivitis,79
+2016-W43,Acute Diarrhoea,558
+2016-W43,Chickenpox,15
+2016-W44,Acute Upper Respiratory Tract infections,2462
+2016-W44,Acute Conjunctivitis,82
+2016-W44,Acute Diarrhoea,568
+2016-W44,Chickenpox,13
+2016-W45,Acute Upper Respiratory Tract infections,2598
+2016-W45,Acute Conjunctivitis,78
+2016-W45,Acute Diarrhoea,554
+2016-W45,Chickenpox,16
+2016-W46,Acute Upper Respiratory Tract infections,2651
+2016-W46,Acute Conjunctivitis,84
+2016-W46,Acute Diarrhoea,519
+2016-W46,Chickenpox,11
+2016-W47,Acute Upper Respiratory Tract infections,2620
+2016-W47,Acute Conjunctivitis,87
+2016-W47,Acute Diarrhoea,512
+2016-W47,Chickenpox,14
+2016-W48,Acute Upper Respiratory Tract infections,2589
+2016-W48,Acute Conjunctivitis,100
+2016-W48,Acute Diarrhoea,489
+2016-W48,Chickenpox,14
+2016-W49,Acute Upper Respiratory Tract infections,2377
+2016-W49,Acute Conjunctivitis,102
+2016-W49,Acute Diarrhoea,479
+2016-W49,Chickenpox,11
+2016-W50,Acute Upper Respiratory Tract infections,2410
+2016-W50,Acute Conjunctivitis,101
+2016-W50,Acute Diarrhoea,427
+2016-W50,Chickenpox,13
+2016-W51,Acute Upper Respiratory Tract infections,2275
+2016-W51,Acute Conjunctivitis,92
+2016-W51,Acute Diarrhoea,448
+2016-W51,Chickenpox,11
+2016-W52,Acute Upper Respiratory Tract infections,2493
+2016-W52,Acute Conjunctivitis,98
+2016-W52,Acute Diarrhoea,458
+2016-W52,Chickenpox,12
+2017-W01,Acute Upper Respiratory Tract infections,2721
+2017-W01,Acute Conjunctivitis,106
+2017-W01,Acute Diarrhoea,518
+2017-W01,Chickenpox,20
+2017-W02,Acute Upper Respiratory Tract infections,2864
+2017-W02,Acute Conjunctivitis,91
+2017-W02,Acute Diarrhoea,543
+2017-W02,Chickenpox,17
+2017-W03,Acute Upper Respiratory Tract infections,3060
+2017-W03,Acute Conjunctivitis,91
+2017-W03,Acute Diarrhoea,558
+2017-W03,Chickenpox,16
+2017-W04,Acute Upper Respiratory Tract infections,3002
+2017-W04,Acute Conjunctivitis,82
+2017-W04,Acute Diarrhoea,509
+2017-W04,Chickenpox,13
+2017-W05,Acute Upper Respiratory Tract infections,3521
+2017-W05,Acute Conjunctivitis,98
+2017-W05,Acute Diarrhoea,583
+2017-W05,Chickenpox,17
+2017-W06,Acute Upper Respiratory Tract infections,3352
+2017-W06,Acute Conjunctivitis,99
+2017-W06,Acute Diarrhoea,587
+2017-W06,Chickenpox,18
+2017-W07,Acute Upper Respiratory Tract infections,3316
+2017-W07,Acute Conjunctivitis,105
+2017-W07,Acute Diarrhoea,561
+2017-W07,Chickenpox,17
+2017-W08,Acute Upper Respiratory Tract infections,2993
+2017-W08,Acute Conjunctivitis,99
+2017-W08,Acute Diarrhoea,536
+2017-W08,Chickenpox,18
+2017-W09,Acute Upper Respiratory Tract infections,3008
+2017-W09,Acute Conjunctivitis,95
+2017-W09,Acute Diarrhoea,527
+2017-W09,Chickenpox,14
+2017-W10,Acute Upper Respiratory Tract infections,3038
+2017-W10,Acute Conjunctivitis,112
+2017-W10,Acute Diarrhoea,533
+2017-W10,Chickenpox,16
+2017-W11,Acute Upper Respiratory Tract infections,2711
+2017-W11,Acute Conjunctivitis,100
+2017-W11,Acute Diarrhoea,428
+2017-W11,Chickenpox,14
+2017-W12,Acute Upper Respiratory Tract infections,2977
+2017-W12,Acute Conjunctivitis,124
+2017-W12,Acute Diarrhoea,515
+2017-W12,Chickenpox,17
+2017-W13,Acute Upper Respiratory Tract infections,2839
+2017-W13,Acute Conjunctivitis,113
+2017-W13,Acute Diarrhoea,486
+2017-W13,Chickenpox,16
+2017-W14,Acute Upper Respiratory Tract infections,3023
+2017-W14,Acute Conjunctivitis,98
+2017-W14,Acute Diarrhoea,531
+2017-W14,Chickenpox,16
+2017-W15,Acute Upper Respiratory Tract infections,3164
+2017-W15,Acute Conjunctivitis,99
+2017-W15,Acute Diarrhoea,548
+2017-W15,Chickenpox,22
+2017-W16,Acute Upper Respiratory Tract infections,3202
+2017-W16,Acute Conjunctivitis,99
+2017-W16,Acute Diarrhoea,546
+2017-W16,Chickenpox,16
+2017-W17,Acute Upper Respiratory Tract infections,3189
+2017-W17,Acute Conjunctivitis,95
+2017-W17,Acute Diarrhoea,566
+2017-W17,Chickenpox,18
+2017-W18,Acute Upper Respiratory Tract infections,3452
+2017-W18,Acute Conjunctivitis,108
+2017-W18,Acute Diarrhoea,542
+2017-W18,Chickenpox,21
+2017-W19,Acute Upper Respiratory Tract infections,3645
+2017-W19,Acute Conjunctivitis,103
+2017-W19,Acute Diarrhoea,596
+2017-W19,Chickenpox,19
+2017-W20,Acute Upper Respiratory Tract infections,3500
+2017-W20,Acute Conjunctivitis,88
+2017-W20,Acute Diarrhoea,565
+2017-W20,Chickenpox,15
+2017-W21,Acute Upper Respiratory Tract infections,3440
+2017-W21,Acute Conjunctivitis,84
+2017-W21,Acute Diarrhoea,548
+2017-W21,Chickenpox,14
+2017-W22,Acute Upper Respiratory Tract infections,3241
+2017-W22,Acute Conjunctivitis,84
+2017-W22,Acute Diarrhoea,484
+2017-W22,Chickenpox,10
+2017-W23,Acute Upper Respiratory Tract infections,2842
+2017-W23,Acute Conjunctivitis,87
+2017-W23,Acute Diarrhoea,468
+2017-W23,Chickenpox,14
+2017-W24,Acute Upper Respiratory Tract infections,2476
+2017-W24,Acute Conjunctivitis,83
+2017-W24,Acute Diarrhoea,464
+2017-W24,Chickenpox,10
+2017-W25,Acute Upper Respiratory Tract infections,2374
+2017-W25,Acute Conjunctivitis,82
+2017-W25,Acute Diarrhoea,455
+2017-W25,Chickenpox,12
+2017-W26,Acute Upper Respiratory Tract infections,2793
+2017-W26,Acute Conjunctivitis,84
+2017-W26,Acute Diarrhoea,617
+2017-W26,Chickenpox,19
+2017-W27,Acute Upper Respiratory Tract infections,2835
+2017-W27,Acute Conjunctivitis,77
+2017-W27,Acute Diarrhoea,529
+2017-W27,Chickenpox,13
+2017-W28,Acute Upper Respiratory Tract infections,3191
+2017-W28,Acute Conjunctivitis,85
+2017-W28,Acute Diarrhoea,616
+2017-W28,Chickenpox,17
+2017-W29,Acute Upper Respiratory Tract infections,3355
+2017-W29,Acute Conjunctivitis,96
+2017-W29,Acute Diarrhoea,612
+2017-W29,Chickenpox,14
+2017-W30,Acute Upper Respiratory Tract infections,3132
+2017-W30,Acute Conjunctivitis,88
+2017-W30,Acute Diarrhoea,605
+2017-W30,Chickenpox,14
+2017-W31,Acute Upper Respiratory Tract infections,2867
+2017-W31,Acute Conjunctivitis,87
+2017-W31,Acute Diarrhoea,576
+2017-W31,Chickenpox,16
+2017-W32,Acute Upper Respiratory Tract infections,2783
+2017-W32,Acute Conjunctivitis,87
+2017-W32,Acute Diarrhoea,597
+2017-W32,Chickenpox,15
+2017-W33,Acute Upper Respiratory Tract infections,2893
+2017-W33,Acute Conjunctivitis,80
+2017-W33,Acute Diarrhoea,599
+2017-W33,Chickenpox,12
+2017-W34,Acute Upper Respiratory Tract infections,2771
+2017-W34,Acute Conjunctivitis,78
+2017-W34,Acute Diarrhoea,568
+2017-W34,Chickenpox,15
+2017-W35,Acute Upper Respiratory Tract infections,2502
+2017-W35,Acute Conjunctivitis,81
+2017-W35,Acute Diarrhoea,481
+2017-W35,Chickenpox,17
+2017-W36,Acute Upper Respiratory Tract infections,2378
+2017-W36,Acute Conjunctivitis,75
+2017-W36,Acute Diarrhoea,461
+2017-W36,Chickenpox,13
+2017-W37,Acute Upper Respiratory Tract infections,2489
+2017-W37,Acute Conjunctivitis,80
+2017-W37,Acute Diarrhoea,529
+2017-W37,Chickenpox,13
+2017-W38,Acute Upper Respiratory Tract infections,2665
+2017-W38,Acute Conjunctivitis,84
+2017-W38,Acute Diarrhoea,510
+2017-W38,Chickenpox,10
+2017-W39,Acute Upper Respiratory Tract infections,2686
+2017-W39,Acute Conjunctivitis,80
+2017-W39,Acute Diarrhoea,483
+2017-W39,Chickenpox,10
+2017-W40,Acute Upper Respiratory Tract infections,2881
+2017-W40,Acute Conjunctivitis,71
+2017-W40,Acute Diarrhoea,504
+2017-W40,Chickenpox,11
+2017-W41,Acute Upper Respiratory Tract infections,3016
+2017-W41,Acute Conjunctivitis,80
+2017-W41,Acute Diarrhoea,518
+2017-W41,Chickenpox,12
+2017-W42,Acute Upper Respiratory Tract infections,3125
+2017-W42,Acute Conjunctivitis,88
+2017-W42,Acute Diarrhoea,575
+2017-W42,Chickenpox,14
+2017-W43,Acute Upper Respiratory Tract infections,2869
+2017-W43,Acute Conjunctivitis,74
+2017-W43,Acute Diarrhoea,532
+2017-W43,Chickenpox,11
+2017-W44,Acute Upper Respiratory Tract infections,2882
+2017-W44,Acute Conjunctivitis,80
+2017-W44,Acute Diarrhoea,507
+2017-W44,Chickenpox,11
+2017-W45,Acute Upper Respiratory Tract infections,2862
+2017-W45,Acute Conjunctivitis,77
+2017-W45,Acute Diarrhoea,519
+2017-W45,Chickenpox,13
+2017-W46,Acute Upper Respiratory Tract infections,2939
+2017-W46,Acute Conjunctivitis,80
+2017-W46,Acute Diarrhoea,544
+2017-W46,Chickenpox,14
+2017-W47,Acute Upper Respiratory Tract infections,2910
+2017-W47,Acute Conjunctivitis,76
+2017-W47,Acute Diarrhoea,504
+2017-W47,Chickenpox,14
+2017-W48,Acute Upper Respiratory Tract infections,2836
+2017-W48,Acute Conjunctivitis,83
+2017-W48,Acute Diarrhoea,502
+2017-W48,Chickenpox,14
+2017-W49,Acute Upper Respiratory Tract infections,2711
+2017-W49,Acute Conjunctivitis,82
+2017-W49,Acute Diarrhoea,500
+2017-W49,Chickenpox,10
+2017-W50,Acute Upper Respiratory Tract infections,2677
+2017-W50,Acute Conjunctivitis,82
+2017-W50,Acute Diarrhoea,483
+2017-W50,Chickenpox,13
+2017-W51,Acute Upper Respiratory Tract infections,2729
+2017-W51,Acute Conjunctivitis,93
+2017-W51,Acute Diarrhoea,466
+2017-W51,Chickenpox,10
+2017-W52,Acute Upper Respiratory Tract infections,2836
+2017-W52,Acute Conjunctivitis,88
+2017-W52,Acute Diarrhoea,485
+2017-W52,Chickenpox,15
+2018-W01,Acute Upper Respiratory Tract infections,3552
+2018-W01,Acute Conjunctivitis,116
+2018-W01,Acute Diarrhoea,652
+2018-W01,Chickenpox,27
+2018-W01,HFMD,12
+2018-W02,Acute Upper Respiratory Tract infections,3632
+2018-W02,Acute Conjunctivitis,93
+2018-W02,Acute Diarrhoea,604
+2018-W02,Chickenpox,17
+2018-W02,HFMD,15
+2018-W03,Acute Upper Respiratory Tract infections,4234
+2018-W03,Acute Conjunctivitis,96
+2018-W03,Acute Diarrhoea,583
+2018-W03,Chickenpox,20
+2018-W03,HFMD,16
+2018-W04,Acute Upper Respiratory Tract infections,4048
+2018-W04,Acute Conjunctivitis,91
+2018-W04,Acute Diarrhoea,607
+2018-W04,Chickenpox,19
+2018-W04,HFMD,22
+2018-W05,Acute Upper Respiratory Tract infections,3960
+2018-W05,Acute Conjunctivitis,109
+2018-W05,Acute Diarrhoea,583
+2018-W05,Chickenpox,17
+2018-W05,HFMD,26
+2018-W06,Acute Upper Respiratory Tract infections,3983
+2018-W06,Acute Conjunctivitis,114
+2018-W06,Acute Diarrhoea,560
+2018-W06,Chickenpox,18
+2018-W06,HFMD,17
+2018-W07,Acute Upper Respiratory Tract infections,3911
+2018-W07,Acute Conjunctivitis,109
+2018-W07,Acute Diarrhoea,543
+2018-W07,Chickenpox,16
+2018-W07,HFMD,21
+2018-W08,Acute Upper Respiratory Tract infections,3513
+2018-W08,Acute Conjunctivitis,117
+2018-W08,Acute Diarrhoea,585
+2018-W08,Chickenpox,18
+2018-W08,HFMD,20
+2018-W09,Acute Upper Respiratory Tract infections,3174
+2018-W09,Acute Conjunctivitis,101
+2018-W09,Acute Diarrhoea,572
+2018-W09,Chickenpox,23
+2018-W09,HFMD,21
+2018-W10,Acute Upper Respiratory Tract infections,3012
+2018-W10,Acute Conjunctivitis,104
+2018-W10,Acute Diarrhoea,550
+2018-W10,Chickenpox,21
+2018-W10,HFMD,22
+2018-W11,Acute Upper Respiratory Tract infections,2694
+2018-W11,Acute Conjunctivitis,95
+2018-W11,Acute Diarrhoea,498
+2018-W11,Chickenpox,17
+2018-W11,HFMD,25
+2018-W12,Acute Upper Respiratory Tract infections,2806
+2018-W12,Acute Conjunctivitis,112
+2018-W12,Acute Diarrhoea,552
+2018-W12,Chickenpox,15
+2018-W12,HFMD,23
+2018-W13,Acute Upper Respiratory Tract infections,2797
+2018-W13,Acute Conjunctivitis,109
+2018-W13,Acute Diarrhoea,532
+2018-W13,Chickenpox,21
+2018-W13,HFMD,27
+2018-W14,Acute Upper Respiratory Tract infections,2968
+2018-W14,Acute Conjunctivitis,104
+2018-W14,Acute Diarrhoea,565
+2018-W14,Chickenpox,19
+2018-W14,HFMD,29
+2018-W15,Acute Upper Respiratory Tract infections,2959
+2018-W15,Acute Conjunctivitis,101
+2018-W15,Acute Diarrhoea,601
+2018-W15,Chickenpox,16
+2018-W15,HFMD,31
+2018-W16,Acute Upper Respiratory Tract infections,2984
+2018-W16,Acute Conjunctivitis,91
+2018-W16,Acute Diarrhoea,575
+2018-W16,Chickenpox,19
+2018-W16,HFMD,31
+2018-W17,Acute Upper Respiratory Tract infections,3044
+2018-W17,Acute Conjunctivitis,89
+2018-W17,Acute Diarrhoea,568
+2018-W17,Chickenpox,15
+2018-W17,HFMD,32
+2018-W18,Acute Upper Respiratory Tract infections,3249
+2018-W18,Acute Conjunctivitis,99
+2018-W18,Acute Diarrhoea,574
+2018-W18,Chickenpox,22
+2018-W18,HFMD,32
+2018-W19,Acute Upper Respiratory Tract infections,3131
+2018-W19,Acute Conjunctivitis,90
+2018-W19,Acute Diarrhoea,575
+2018-W19,Chickenpox,13
+2018-W19,HFMD,25
+2018-W20,Acute Upper Respiratory Tract infections,3075
+2018-W20,Acute Conjunctivitis,90
+2018-W20,Acute Diarrhoea,598
+2018-W20,Chickenpox,13
+2018-W20,HFMD,28
+2018-W21,Acute Upper Respiratory Tract infections,3089
+2018-W21,Acute Conjunctivitis,95
+2018-W21,Acute Diarrhoea,609
+2018-W21,Chickenpox,14
+2018-W21,HFMD,28
+2018-W22,Acute Upper Respiratory Tract infections,3023
+2018-W22,Acute Conjunctivitis,89
+2018-W22,Acute Diarrhoea,563
+2018-W22,Chickenpox,12
+2018-W22,HFMD,24
+2018-W23,Acute Upper Respiratory Tract infections,2701
+2018-W23,Acute Conjunctivitis,89
+2018-W23,Acute Diarrhoea,524
+2018-W23,Chickenpox,11
+2018-W23,HFMD,18
+2018-W24,Acute Upper Respiratory Tract infections,2403
+2018-W24,Acute Conjunctivitis,74
+2018-W24,Acute Diarrhoea,466
+2018-W24,Chickenpox,15
+2018-W24,HFMD,20
+2018-W25,Acute Upper Respiratory Tract infections,2597
+2018-W25,Acute Conjunctivitis,81
+2018-W25,Acute Diarrhoea,534
+2018-W25,Chickenpox,11
+2018-W25,HFMD,19
+2018-W26,Acute Upper Respiratory Tract infections,2987
+2018-W26,Acute Conjunctivitis,87
+2018-W26,Acute Diarrhoea,603
+2018-W26,Chickenpox,16
+2018-W26,HFMD,25
+2018-W27,Acute Upper Respiratory Tract infections,3173
+2018-W27,Acute Conjunctivitis,94
+2018-W27,Acute Diarrhoea,592
+2018-W27,Chickenpox,15
+2018-W27,HFMD,35
+2018-W28,Acute Upper Respiratory Tract infections,3384
+2018-W28,Acute Conjunctivitis,94
+2018-W28,Acute Diarrhoea,649
+2018-W28,Chickenpox,19
+2018-W28,HFMD,36
+2018-W29,Acute Upper Respiratory Tract infections,3202
+2018-W29,Acute Conjunctivitis,85
+2018-W29,Acute Diarrhoea,634
+2018-W29,Chickenpox,16
+2018-W29,HFMD,37
+2018-W30,Acute Upper Respiratory Tract infections,3033
+2018-W30,Acute Conjunctivitis,89
+2018-W30,Acute Diarrhoea,624
+2018-W30,Chickenpox,15
+2018-W30,HFMD,42
+2018-W31,Acute Upper Respiratory Tract infections,3006
+2018-W31,Acute Conjunctivitis,81
+2018-W31,Acute Diarrhoea,647
+2018-W31,Chickenpox,16
+2018-W31,HFMD,34
+2018-W32,Acute Upper Respiratory Tract infections,2890
+2018-W32,Acute Conjunctivitis,88
+2018-W32,Acute Diarrhoea,611
+2018-W32,Chickenpox,16
+2018-W32,HFMD,40
+2018-W33,Acute Upper Respiratory Tract infections,2873
+2018-W33,Acute Conjunctivitis,85
+2018-W33,Acute Diarrhoea,607
+2018-W33,Chickenpox,17
+2018-W33,HFMD,38
+2018-W34,Acute Upper Respiratory Tract infections,2816
+2018-W34,Acute Conjunctivitis,95
+2018-W34,Acute Diarrhoea,649
+2018-W34,Chickenpox,14
+2018-W34,HFMD,34
+2018-W35,Acute Upper Respiratory Tract infections,2519
+2018-W35,Acute Conjunctivitis,76
+2018-W35,Acute Diarrhoea,566
+2018-W35,Chickenpox,10
+2018-W35,HFMD,23
+2018-W36,Acute Upper Respiratory Tract infections,2422
+2018-W36,Acute Conjunctivitis,68
+2018-W36,Acute Diarrhoea,499
+2018-W36,Chickenpox,13
+2018-W36,HFMD,15
+2018-W37,Acute Upper Respiratory Tract infections,2893
+2018-W37,Acute Conjunctivitis,82
+2018-W37,Acute Diarrhoea,593
+2018-W37,Chickenpox,16
+2018-W37,HFMD,17
+2018-W38,Acute Upper Respiratory Tract infections,2845
+2018-W38,Acute Conjunctivitis,87
+2018-W38,Acute Diarrhoea,606
+2018-W38,Chickenpox,13
+2018-W38,HFMD,16
+2018-W39,Acute Upper Respiratory Tract infections,2767
+2018-W39,Acute Conjunctivitis,79
+2018-W39,Acute Diarrhoea,571
+2018-W39,Chickenpox,15
+2018-W39,HFMD,17
+2018-W40,Acute Upper Respiratory Tract infections,2659
+2018-W40,Acute Conjunctivitis,83
+2018-W40,Acute Diarrhoea,578
+2018-W40,Chickenpox,15
+2018-W40,HFMD,18
+2018-W41,Acute Upper Respiratory Tract infections,2656
+2018-W41,Acute Conjunctivitis,76
+2018-W41,Acute Diarrhoea,577
+2018-W41,Chickenpox,15
+2018-W41,HFMD,15
+2018-W42,Acute Upper Respiratory Tract infections,2904
+2018-W42,Acute Conjunctivitis,81
+2018-W42,Acute Diarrhoea,620
+2018-W42,Chickenpox,12
+2018-W42,HFMD,15
+2018-W43,Acute Upper Respiratory Tract infections,2947
+2018-W43,Acute Conjunctivitis,79
+2018-W43,Acute Diarrhoea,616
+2018-W43,Chickenpox,14
+2018-W43,HFMD,17
+2018-W44,Acute Upper Respiratory Tract infections,3016
+2018-W44,Acute Conjunctivitis,82
+2018-W44,Acute Diarrhoea,584
+2018-W44,Chickenpox,15
+2018-W44,HFMD,13
+2018-W45,Acute Upper Respiratory Tract infections,3321
+2018-W45,Acute Conjunctivitis,97
+2018-W45,Acute Diarrhoea,615
+2018-W45,Chickenpox,19
+2018-W45,HFMD,20
+2018-W46,Acute Upper Respiratory Tract infections,3272
+2018-W46,Acute Conjunctivitis,84
+2018-W46,Acute Diarrhoea,593
+2018-W46,Chickenpox,12
+2018-W46,HFMD,18
+2018-W47,Acute Upper Respiratory Tract infections,3386
+2018-W47,Acute Conjunctivitis,93
+2018-W47,Acute Diarrhoea,568
+2018-W47,Chickenpox,14
+2018-W47,HFMD,18
+2018-W48,Acute Upper Respiratory Tract infections,3295
+2018-W48,Acute Conjunctivitis,91
+2018-W48,Acute Diarrhoea,543
+2018-W48,Chickenpox,12
+2018-W48,HFMD,16
+2018-W49,Acute Upper Respiratory Tract infections,3138
+2018-W49,Acute Conjunctivitis,101
+2018-W49,Acute Diarrhoea,543
+2018-W49,Chickenpox,10
+2018-W49,HFMD,14
+2018-W50,Acute Upper Respiratory Tract infections,3036
+2018-W50,Acute Conjunctivitis,81
+2018-W50,Acute Diarrhoea,509
+2018-W50,Chickenpox,7
+2018-W50,HFMD,16
+2018-W51,Acute Upper Respiratory Tract infections,2915
+2018-W51,Acute Conjunctivitis,85
+2018-W51,Acute Diarrhoea,502
+2018-W51,Chickenpox,10
+2018-W51,HFMD,13
+2018-W52,Acute Upper Respiratory Tract infections,3040
+2018-W52,Acute Conjunctivitis,95
+2018-W52,Acute Diarrhoea,525
+2018-W52,Chickenpox,14
+2018-W52,HFMD,14
+2019-W01,Acute Upper Respiratory Tract infections,3478
+2019-W01,Acute Conjunctivitis,123
+2019-W01,Acute Diarrhoea,631
+2019-W01,Chickenpox,16
+2019-W01,HFMD,13
+2019-W02,Acute Upper Respiratory Tract infections,3291
+2019-W02,Acute Conjunctivitis,100
+2019-W02,Acute Diarrhoea,620
+2019-W02,Chickenpox,15
+2019-W02,HFMD,14
+2019-W03,Acute Upper Respiratory Tract infections,3391
+2019-W03,Acute Conjunctivitis,99
+2019-W03,Acute Diarrhoea,633
+2019-W03,Chickenpox,13
+2019-W03,HFMD,13
+2019-W04,Acute Upper Respiratory Tract infections,3408
+2019-W04,Acute Conjunctivitis,96
+2019-W04,Acute Diarrhoea,601
+2019-W04,Chickenpox,15
+2019-W04,HFMD,12
+2019-W05,Acute Upper Respiratory Tract infections,3428
+2019-W05,Acute Conjunctivitis,95
+2019-W05,Acute Diarrhoea,590
+2019-W05,Chickenpox,11
+2019-W05,HFMD,11
+2019-W06,Acute Upper Respiratory Tract infections,3658
+2019-W06,Acute Conjunctivitis,107
+2019-W06,Acute Diarrhoea,755
+2019-W06,Chickenpox,18
+2019-W06,HFMD,16
+2019-W07,Acute Upper Respiratory Tract infections,3237
+2019-W07,Acute Conjunctivitis,97
+2019-W07,Acute Diarrhoea,659
+2019-W07,Chickenpox,12
+2019-W07,HFMD,12
+2019-W08,Acute Upper Respiratory Tract infections,3063
+2019-W08,Acute Conjunctivitis,94
+2019-W08,Acute Diarrhoea,622
+2019-W08,Chickenpox,14
+2019-W08,HFMD,16
+2019-W09,Acute Upper Respiratory Tract infections,2920
+2019-W09,Acute Conjunctivitis,90
+2019-W09,Acute Diarrhoea,589
+2019-W09,Chickenpox,13
+2019-W09,HFMD,13
+2019-W10,Acute Upper Respiratory Tract infections,2949
+2019-W10,Acute Conjunctivitis,107
+2019-W10,Acute Diarrhoea,593
+2019-W10,Chickenpox,14
+2019-W10,HFMD,13
+2019-W11,Acute Upper Respiratory Tract infections,2881
+2019-W11,Acute Conjunctivitis,87
+2019-W11,Acute Diarrhoea,582
+2019-W11,Chickenpox,13
+2019-W11,HFMD,19
+2019-W12,Acute Upper Respiratory Tract infections,2591
+2019-W12,Acute Conjunctivitis,87
+2019-W12,Acute Diarrhoea,507
+2019-W12,Chickenpox,11
+2019-W12,HFMD,12
+2019-W13,Acute Upper Respiratory Tract infections,2687
+2019-W13,Acute Conjunctivitis,84
+2019-W13,Acute Diarrhoea,584
+2019-W13,Chickenpox,13
+2019-W13,HFMD,15
+2019-W14,Acute Upper Respiratory Tract infections,2834
+2019-W14,Acute Conjunctivitis,85
+2019-W14,Acute Diarrhoea,609
+2019-W14,Chickenpox,11
+2019-W14,HFMD,17
+2019-W15,Acute Upper Respiratory Tract infections,2870
+2019-W15,Acute Conjunctivitis,84
+2019-W15,Acute Diarrhoea,586
+2019-W15,Chickenpox,14
+2019-W15,HFMD,21
+2019-W16,Acute Upper Respiratory Tract infections,2995
+2019-W16,Acute Conjunctivitis,91
+2019-W16,Acute Diarrhoea,614
+2019-W16,Chickenpox,15
+2019-W16,HFMD,24
+2019-W17,Acute Upper Respiratory Tract infections,2963
+2019-W17,Acute Conjunctivitis,84
+2019-W17,Acute Diarrhoea,645
+2019-W17,Chickenpox,12
+2019-W17,HFMD,18
+2019-W18,Acute Upper Respiratory Tract infections,3224
+2019-W18,Acute Conjunctivitis,90
+2019-W18,Acute Diarrhoea,684
+2019-W18,Chickenpox,15
+2019-W18,HFMD,19
+2019-W19,Acute Upper Respiratory Tract infections,3184
+2019-W19,Acute Conjunctivitis,83
+2019-W19,Acute Diarrhoea,643
+2019-W19,Chickenpox,11
+2019-W19,HFMD,18
+2019-W20,Acute Upper Respiratory Tract infections,3060
+2019-W20,Acute Conjunctivitis,91
+2019-W20,Acute Diarrhoea,674
+2019-W20,Chickenpox,15
+2019-W20,HFMD,24
+2019-W21,Acute Upper Respiratory Tract infections,3210
+2019-W21,Acute Conjunctivitis,85
+2019-W21,Acute Diarrhoea,675
+2019-W21,Chickenpox,13
+2019-W21,HFMD,20
+2019-W22,Acute Upper Respiratory Tract infections,3017
+2019-W22,Acute Conjunctivitis,79
+2019-W22,Acute Diarrhoea,637
+2019-W22,Chickenpox,13
+2019-W22,HFMD,24
+2019-W23,Acute Upper Respiratory Tract infections,2824
+2019-W23,Acute Conjunctivitis,88
+2019-W23,Acute Diarrhoea,640
+2019-W23,Chickenpox,12
+2019-W23,HFMD,20
+2019-W24,Acute Upper Respiratory Tract infections,2797
+2019-W24,Acute Conjunctivitis,85
+2019-W24,Acute Diarrhoea,513
+2019-W24,Chickenpox,9
+2019-W24,HFMD,21
+2019-W25,Acute Upper Respiratory Tract infections,2824
+2019-W25,Acute Conjunctivitis,87
+2019-W25,Acute Diarrhoea,554
+2019-W25,Chickenpox,12
+2019-W25,HFMD,26
+2019-W26,Acute Upper Respiratory Tract infections,2957
+2019-W26,Acute Conjunctivitis,85
+2019-W26,Acute Diarrhoea,593
+2019-W26,Chickenpox,13
+2019-W26,HFMD,26
+2019-W27,Acute Upper Respiratory Tract infections,3182
+2019-W27,Acute Conjunctivitis,87
+2019-W27,Acute Diarrhoea,679
+2019-W27,Chickenpox,13
+2019-W27,HFMD,23
+2019-W28,Acute Upper Respiratory Tract infections,3312
+2019-W28,Acute Conjunctivitis,85
+2019-W28,Acute Diarrhoea,726
+2019-W28,Chickenpox,12
+2019-W28,HFMD,25
+2019-W29,Acute Upper Respiratory Tract infections,3290
+2019-W29,Acute Conjunctivitis,84
+2019-W29,Acute Diarrhoea,697
+2019-W29,Chickenpox,14
+2019-W29,HFMD,23
+2019-W30,Acute Upper Respiratory Tract infections,3256
+2019-W30,Acute Conjunctivitis,89
+2019-W30,Acute Diarrhoea,751
+2019-W30,Chickenpox,14
+2019-W30,HFMD,21
+2019-W31,Acute Upper Respiratory Tract infections,3102
+2019-W31,Acute Conjunctivitis,75
+2019-W31,Acute Diarrhoea,744
+2019-W31,Chickenpox,10
+2019-W31,HFMD,21
+2019-W32,Acute Upper Respiratory Tract infections,2837
+2019-W32,Acute Conjunctivitis,71
+2019-W32,Acute Diarrhoea,696
+2019-W32,Chickenpox,12
+2019-W32,HFMD,22
+2019-W33,Acute Upper Respiratory Tract infections,2794
+2019-W33,Acute Conjunctivitis,81
+2019-W33,Acute Diarrhoea,727
+2019-W33,Chickenpox,13
+2019-W33,HFMD,22
+2019-W34,Acute Upper Respiratory Tract infections,2621
+2019-W34,Acute Conjunctivitis,85
+2019-W34,Acute Diarrhoea,729
+2019-W34,Chickenpox,13
+2019-W34,HFMD,16
+2019-W35,Acute Upper Respiratory Tract infections,2510
+2019-W35,Acute Conjunctivitis,77
+2019-W35,Acute Diarrhoea,672
+2019-W35,Chickenpox,12
+2019-W35,HFMD,19
+2019-W36,Acute Upper Respiratory Tract infections,2393
+2019-W36,Acute Conjunctivitis,73
+2019-W36,Acute Diarrhoea,610
+2019-W36,Chickenpox,11
+2019-W36,HFMD,18
+2019-W37,Acute Upper Respiratory Tract infections,2286
+2019-W37,Acute Conjunctivitis,79
+2019-W37,Acute Diarrhoea,539
+2019-W37,Chickenpox,11
+2019-W37,HFMD,21
+2019-W38,Acute Upper Respiratory Tract infections,2720
+2019-W38,Acute Conjunctivitis,89
+2019-W38,Acute Diarrhoea,571
+2019-W38,Chickenpox,15
+2019-W38,HFMD,18
+2019-W39,Acute Upper Respiratory Tract infections,2564
+2019-W39,Acute Conjunctivitis,88
+2019-W39,Acute Diarrhoea,578
+2019-W39,Chickenpox,11
+2019-W39,HFMD,19
+2019-W40,Acute Upper Respiratory Tract infections,2619
+2019-W40,Acute Conjunctivitis,71
+2019-W40,Acute Diarrhoea,572
+2019-W40,Chickenpox,13
+2019-W40,HFMD,16
+2019-W41,Acute Upper Respiratory Tract infections,2848
+2019-W41,Acute Conjunctivitis,82
+2019-W41,Acute Diarrhoea,566
+2019-W41,Chickenpox,6
+2019-W41,HFMD,19
+2019-W42,Acute Upper Respiratory Tract infections,2987
+2019-W42,Acute Conjunctivitis,83
+2019-W42,Acute Diarrhoea,565
+2019-W42,Chickenpox,13
+2019-W42,HFMD,17
+2019-W43,Acute Upper Respiratory Tract infections,2952
+2019-W43,Acute Conjunctivitis,78
+2019-W43,Acute Diarrhoea,585
+2019-W43,Chickenpox,9
+2019-W43,HFMD,23
+2019-W44,Acute Upper Respiratory Tract infections,3208
+2019-W44,Acute Conjunctivitis,83
+2019-W44,Acute Diarrhoea,627
+2019-W44,Chickenpox,13
+2019-W44,HFMD,21
+2019-W45,Acute Upper Respiratory Tract infections,3156
+2019-W45,Acute Conjunctivitis,83
+2019-W45,Acute Diarrhoea,586
+2019-W45,Chickenpox,9
+2019-W45,HFMD,15
+2019-W46,Acute Upper Respiratory Tract infections,3115
+2019-W46,Acute Conjunctivitis,80
+2019-W46,Acute Diarrhoea,581
+2019-W46,Chickenpox,13
+2019-W46,HFMD,17
+2019-W47,Acute Upper Respiratory Tract infections,3101
+2019-W47,Acute Conjunctivitis,77
+2019-W47,Acute Diarrhoea,559
+2019-W47,Chickenpox,10
+2019-W47,HFMD,18
+2019-W48,Acute Upper Respiratory Tract infections,2966
+2019-W48,Acute Conjunctivitis,80
+2019-W48,Acute Diarrhoea,542
+2019-W48,Chickenpox,9
+2019-W48,HFMD,20
+2019-W49,Acute Upper Respiratory Tract infections,2966
+2019-W49,Acute Conjunctivitis,83
+2019-W49,Acute Diarrhoea,526
+2019-W49,Chickenpox,7
+2019-W49,HFMD,18
+2019-W50,Acute Upper Respiratory Tract infections,3062
+2019-W50,Acute Conjunctivitis,88
+2019-W50,Acute Diarrhoea,490
+2019-W50,Chickenpox,10
+2019-W50,HFMD,18
+2019-W51,Acute Upper Respiratory Tract infections,3050
+2019-W51,Acute Conjunctivitis,83
+2019-W51,Acute Diarrhoea,511
+2019-W51,Chickenpox,9
+2019-W51,HFMD,11
+2019-W52,Acute Upper Respiratory Tract infections,3701
+2019-W52,Acute Conjunctivitis,99
+2019-W52,Acute Diarrhoea,598
+2019-W52,Chickenpox,18
+2019-W52,HFMD,19
+2020-W01,Acute Upper Respiratory Tract infections,3842
+2020-W01,Acute Conjunctivitis,125
+2020-W01,Acute Diarrhoea,640
+2020-W01,Chickenpox,21
+2020-W01,HFMD,21
+2020-W02,Acute Upper Respiratory Tract infections,3585
+2020-W02,Acute Conjunctivitis,108
+2020-W02,Acute Diarrhoea,604
+2020-W02,Chickenpox,16
+2020-W02,HFMD,15
+2020-W03,Acute Upper Respiratory Tract infections,3708
+2020-W03,Acute Conjunctivitis,106
+2020-W03,Acute Diarrhoea,589
+2020-W03,Chickenpox,15
+2020-W03,HFMD,20
+2020-W04,Acute Upper Respiratory Tract infections,3811
+2020-W04,Acute Conjunctivitis,97
+2020-W04,Acute Diarrhoea,626
+2020-W04,Chickenpox,13
+2020-W04,HFMD,14
+2020-W05,Acute Upper Respiratory Tract infections,4728
+2020-W05,Acute Conjunctivitis,83
+2020-W05,Acute Diarrhoea,541
+2020-W05,Chickenpox,16
+2020-W05,HFMD,25
+2020-W06,Acute Upper Respiratory Tract infections,3791
+2020-W06,Acute Conjunctivitis,84
+2020-W06,Acute Diarrhoea,539
+2020-W06,Chickenpox,11
+2020-W06,HFMD,14
+2020-W07,Acute Upper Respiratory Tract infections,3150
+2020-W07,Acute Conjunctivitis,63
+2020-W07,Acute Diarrhoea,431
+2020-W07,Chickenpox,11
+2020-W07,HFMD,11
+2020-W08,Acute Upper Respiratory Tract infections,2826
+2020-W08,Acute Conjunctivitis,83
+2020-W08,Acute Diarrhoea,407
+2020-W08,Chickenpox,9
+2020-W08,HFMD,11
+2020-W09,Acute Upper Respiratory Tract infections,2473
+2020-W09,Acute Conjunctivitis,63
+2020-W09,Acute Diarrhoea,404
+2020-W09,Chickenpox,11
+2020-W09,HFMD,11
+2020-W10,Acute Upper Respiratory Tract infections,2317
+2020-W10,Acute Conjunctivitis,65
+2020-W10,Acute Diarrhoea,399
+2020-W10,Chickenpox,11
+2020-W10,HFMD,8
+2020-W11,Acute Upper Respiratory Tract infections,2288
+2020-W11,Acute Conjunctivitis,56
+2020-W11,Acute Diarrhoea,369
+2020-W11,Chickenpox,8
+2020-W11,HFMD,8
+2020-W12,Acute Upper Respiratory Tract infections,2378
+2020-W12,Acute Conjunctivitis,46
+2020-W12,Acute Diarrhoea,367
+2020-W12,Chickenpox,5
+2020-W12,HFMD,6
+2020-W13,Acute Upper Respiratory Tract infections,2592
+2020-W13,Acute Conjunctivitis,50
+2020-W13,Acute Diarrhoea,344
+2020-W13,Chickenpox,6
+2020-W13,HFMD,4
+2020-W14,Acute Upper Respiratory Tract infections,2065
+2020-W14,Acute Conjunctivitis,45
+2020-W14,Acute Diarrhoea,259
+2020-W14,Chickenpox,6
+2020-W14,HFMD,4
+2020-W15,Acute Upper Respiratory Tract infections,1558
+2020-W15,Acute Conjunctivitis,38
+2020-W15,Acute Diarrhoea,179
+2020-W15,Chickenpox,5
+2020-W15,HFMD,1
+2020-W16,Acute Upper Respiratory Tract infections,1121
+2020-W16,Acute Conjunctivitis,32
+2020-W16,Acute Diarrhoea,140
+2020-W16,Chickenpox,3
+2020-W16,HFMD,1
+2020-W17,Acute Upper Respiratory Tract infections,835
+2020-W17,Acute Conjunctivitis,34
+2020-W17,Acute Diarrhoea,135
+2020-W17,Chickenpox,3
+2020-W17,HFMD,1
+2020-W18,Acute Upper Respiratory Tract infections,683
+2020-W18,Acute Conjunctivitis,36
+2020-W18,Acute Diarrhoea,140
+2020-W18,Chickenpox,3
+2020-W18,HFMD,0
+2020-W19,Acute Upper Respiratory Tract infections,620
+2020-W19,Acute Conjunctivitis,35
+2020-W19,Acute Diarrhoea,148
+2020-W19,Chickenpox,3
+2020-W19,HFMD,1
+2020-W20,Acute Upper Respiratory Tract infections,575
+2020-W20,Acute Conjunctivitis,33
+2020-W20,Acute Diarrhoea,141
+2020-W20,Chickenpox,3
+2020-W20,HFMD,0
+2020-W21,Acute Upper Respiratory Tract infections,505
+2020-W21,Acute Conjunctivitis,32
+2020-W21,Acute Diarrhoea,153
+2020-W21,Chickenpox,1
+2020-W21,HFMD,1
+2020-W22,Acute Upper Respiratory Tract infections,571
+2020-W22,Acute Conjunctivitis,36
+2020-W22,Acute Diarrhoea,141
+2020-W22,Chickenpox,2
+2020-W22,HFMD,0
+2020-W23,Acute Upper Respiratory Tract infections,268
+2020-W23,Acute Conjunctivitis,18
+2020-W23,Acute Diarrhoea,55
+2020-W23,Chickenpox,1
+2020-W23,HFMD,0
+2020-W24,Acute Upper Respiratory Tract infections,839
+2020-W24,Acute Conjunctivitis,40
+2020-W24,Acute Diarrhoea,199
+2020-W24,Chickenpox,1
+2020-W24,HFMD,1
+2020-W25,Acute Upper Respiratory Tract infections,808
+2020-W25,Acute Conjunctivitis,40
+2020-W25,Acute Diarrhoea,216
+2020-W25,Chickenpox,2
+2020-W25,HFMD,1
+2020-W26,Acute Upper Respiratory Tract infections,829
+2020-W26,Acute Conjunctivitis,48
+2020-W26,Acute Diarrhoea,261
+2020-W26,Chickenpox,2
+2020-W26,HFMD,2
+2020-W27,Acute Upper Respiratory Tract infections,859
+2020-W27,Acute Conjunctivitis,48
+2020-W27,Acute Diarrhoea,292
+2020-W27,Chickenpox,3
+2020-W27,HFMD,1
+2020-W28,Acute Upper Respiratory Tract infections,663
+2020-W28,Acute Conjunctivitis,37
+2020-W28,Acute Diarrhoea,233
+2020-W28,Chickenpox,3
+2020-W28,HFMD,1
+2020-W29,Acute Upper Respiratory Tract infections,871
+2020-W29,Acute Conjunctivitis,48
+2020-W29,Acute Diarrhoea,308
+2020-W29,Chickenpox,5
+2020-W29,HFMD,0
+2020-W30,Acute Upper Respiratory Tract infections,709
+2020-W30,Acute Conjunctivitis,48
+2020-W30,Acute Diarrhoea,285
+2020-W30,Chickenpox,3
+2020-W30,HFMD,2
+2020-W31,Acute Upper Respiratory Tract infections,762
+2020-W31,Acute Conjunctivitis,46
+2020-W31,Acute Diarrhoea,342
+2020-W31,Chickenpox,3
+2020-W31,HFMD,2
+2020-W32,Acute Upper Respiratory Tract infections,780
+2020-W32,Acute Conjunctivitis,45
+2020-W32,Acute Diarrhoea,336
+2020-W32,Chickenpox,4
+2020-W32,HFMD,1
+2020-W33,Acute Upper Respiratory Tract infections,710
+2020-W33,Acute Conjunctivitis,46
+2020-W33,Acute Diarrhoea,362
+2020-W33,Chickenpox,4
+2020-W33,HFMD,1
+2020-W34,Acute Upper Respiratory Tract infections,705
+2020-W34,Acute Conjunctivitis,47
+2020-W34,Acute Diarrhoea,343
+2020-W34,Chickenpox,4
+2020-W34,HFMD,2
+2020-W35,Acute Upper Respiratory Tract infections,730
+2020-W35,Acute Conjunctivitis,48
+2020-W35,Acute Diarrhoea,355
+2020-W35,Chickenpox,3
+2020-W35,HFMD,1
+2020-W36,Acute Upper Respiratory Tract infections,692
+2020-W36,Acute Conjunctivitis,39
+2020-W36,Acute Diarrhoea,314
+2020-W36,Chickenpox,4
+2020-W36,HFMD,1
+2020-W37,Acute Upper Respiratory Tract infections,818
+2020-W37,Acute Conjunctivitis,46
+2020-W37,Acute Diarrhoea,291
+2020-W37,Chickenpox,4
+2020-W37,HFMD,1
+2020-W38,Acute Upper Respiratory Tract infections,1123
+2020-W38,Acute Conjunctivitis,49
+2020-W38,Acute Diarrhoea,335
+2020-W38,Chickenpox,5
+2020-W38,HFMD,2
+2020-W39,Acute Upper Respiratory Tract infections,1218
+2020-W39,Acute Conjunctivitis,51
+2020-W39,Acute Diarrhoea,339
+2020-W39,Chickenpox,5
+2020-W39,HFMD,2
+2020-W40,Acute Upper Respiratory Tract infections,1058
+2020-W40,Acute Conjunctivitis,44
+2020-W40,Acute Diarrhoea,303
+2020-W40,Chickenpox,5
+2020-W40,HFMD,1
+2020-W41,Acute Upper Respiratory Tract infections,988
+2020-W41,Acute Conjunctivitis,48
+2020-W41,Acute Diarrhoea,339
+2020-W41,Chickenpox,4
+2020-W41,HFMD,2
+2020-W42,Acute Upper Respiratory Tract infections,917
+2020-W42,Acute Conjunctivitis,50
+2020-W42,Acute Diarrhoea,336
+2020-W42,Chickenpox,4
+2020-W42,HFMD,1
+2020-W43,Acute Upper Respiratory Tract infections,796
+2020-W43,Acute Conjunctivitis,49
+2020-W43,Acute Diarrhoea,304
+2020-W43,Chickenpox,5
+2020-W43,HFMD,3
+2020-W44,Acute Upper Respiratory Tract infections,802
+2020-W44,Acute Conjunctivitis,50
+2020-W44,Acute Diarrhoea,327
+2020-W44,Chickenpox,4
+2020-W44,HFMD,3
+2020-W45,Acute Upper Respiratory Tract infections,806
+2020-W45,Acute Conjunctivitis,48
+2020-W45,Acute Diarrhoea,312
+2020-W45,Chickenpox,5
+2020-W45,HFMD,1
+2020-W46,Acute Upper Respiratory Tract infections,820
+2020-W46,Acute Conjunctivitis,41
+2020-W46,Acute Diarrhoea,342
+2020-W46,Chickenpox,4
+2020-W46,HFMD,2
+2020-W47,Acute Upper Respiratory Tract infections,760
+2020-W47,Acute Conjunctivitis,44
+2020-W47,Acute Diarrhoea,295
+2020-W47,Chickenpox,5
+2020-W47,HFMD,2
+2020-W48,Acute Upper Respiratory Tract infections,772
+2020-W48,Acute Conjunctivitis,41
+2020-W48,Acute Diarrhoea,295
+2020-W48,Chickenpox,4
+2020-W48,HFMD,1
+2020-W49,Acute Upper Respiratory Tract infections,769
+2020-W49,Acute Conjunctivitis,43
+2020-W49,Acute Diarrhoea,263
+2020-W49,Chickenpox,4
+2020-W49,HFMD,1
+2020-W50,Acute Upper Respiratory Tract infections,779
+2020-W50,Acute Conjunctivitis,43
+2020-W50,Acute Diarrhoea,279
+2020-W50,Chickenpox,4
+2020-W50,HFMD,1
+2020-W51,Acute Upper Respiratory Tract infections,784
+2020-W51,Acute Conjunctivitis,41
+2020-W51,Acute Diarrhoea,274
+2020-W51,Chickenpox,3
+2020-W51,HFMD,1
+2020-W52,Acute Upper Respiratory Tract infections,848
+2020-W52,Acute Conjunctivitis,48
+2020-W52,Acute Diarrhoea,279
+2020-W52,Chickenpox,5
+2020-W52,HFMD,1
+2020-W53,Acute Upper Respiratory Tract infections,849
+2020-W53,Acute Conjunctivitis,45
+2020-W53,Acute Diarrhoea,309
+2020-W53,Chickenpox,4
+2020-W53,HFMD,1
+2021-W01,Acute Upper Respiratory Tract infections,869
+2021-W01,Acute Conjunctivitis,44
+2021-W01,Acute Diarrhoea,300
+2021-W01,Chickenpox,5
+2021-W01,HFMD,2
+2021-W02,Acute Upper Respiratory Tract infections,1048
+2021-W02,Acute Conjunctivitis,49
+2021-W02,Acute Diarrhoea,353
+2021-W02,Chickenpox,4
+2021-W02,HFMD,1
+2021-W03,Acute Upper Respiratory Tract infections,1423
+2021-W03,Acute Conjunctivitis,55
+2021-W03,Acute Diarrhoea,321
+2021-W03,Chickenpox,5
+2021-W03,HFMD,2
+2021-W04,Acute Upper Respiratory Tract infections,1226
+2021-W04,Acute Conjunctivitis,48
+2021-W04,Acute Diarrhoea,341
+2021-W04,Chickenpox,3
+2021-W04,HFMD,1
+2021-W05,Acute Upper Respiratory Tract infections,1192
+2021-W05,Acute Conjunctivitis,59
+2021-W05,Acute Diarrhoea,327
+2021-W05,Chickenpox,3
+2021-W05,HFMD,1
+2021-W06,Acute Upper Respiratory Tract infections,1072
+2021-W06,Acute Conjunctivitis,57
+2021-W06,Acute Diarrhoea,343
+2021-W06,Chickenpox,5
+2021-W06,HFMD,2
+2021-W07,Acute Upper Respiratory Tract infections,1286
+2021-W07,Acute Conjunctivitis,66
+2021-W07,Acute Diarrhoea,339
+2021-W07,Chickenpox,5
+2021-W07,HFMD,1
+2021-W08,Acute Upper Respiratory Tract infections,1279
+2021-W08,Acute Conjunctivitis,59
+2021-W08,Acute Diarrhoea,353
+2021-W08,Chickenpox,4
+2021-W08,HFMD,2
+2021-W09,Acute Upper Respiratory Tract infections,1294
+2021-W09,Acute Conjunctivitis,63
+2021-W09,Acute Diarrhoea,344
+2021-W09,Chickenpox,4
+2021-W09,HFMD,1
+2021-W10,Acute Upper Respiratory Tract infections,1238
+2021-W10,Acute Conjunctivitis,57
+2021-W10,Acute Diarrhoea,357
+2021-W10,Chickenpox,4
+2021-W10,HFMD,2
+2021-W11,Acute Upper Respiratory Tract infections,1108
+2021-W11,Acute Conjunctivitis,44
+2021-W11,Acute Diarrhoea,326
+2021-W11,Chickenpox,4
+2021-W11,HFMD,1
+2021-W12,Acute Upper Respiratory Tract infections,1214
+2021-W12,Acute Conjunctivitis,43
+2021-W12,Acute Diarrhoea,370
+2021-W12,Chickenpox,3
+2021-W12,HFMD,1
+2021-W13,Acute Upper Respiratory Tract infections,1193
+2021-W13,Acute Conjunctivitis,38
+2021-W13,Acute Diarrhoea,354
+2021-W13,Chickenpox,4
+2021-W13,HFMD,4
+2021-W14,Acute Upper Respiratory Tract infections,1245
+2021-W14,Acute Conjunctivitis,45
+2021-W14,Acute Diarrhoea,387
+2021-W14,Chickenpox,5
+2021-W14,HFMD,2
+2021-W15,Acute Upper Respiratory Tract infections,1260
+2021-W15,Acute Conjunctivitis,41
+2021-W15,Acute Diarrhoea,410
+2021-W15,Chickenpox,4
+2021-W15,HFMD,3
+2021-W16,Acute Upper Respiratory Tract infections,1347
+2021-W16,Acute Conjunctivitis,43
+2021-W16,Acute Diarrhoea,446
+2021-W16,Chickenpox,3
+2021-W16,HFMD,5
+2021-W17,Acute Upper Respiratory Tract infections,1387
+2021-W17,Acute Conjunctivitis,45
+2021-W17,Acute Diarrhoea,453
+2021-W17,Chickenpox,5
+2021-W17,HFMD,4
+2021-W18,Acute Upper Respiratory Tract infections,1459
+2021-W18,Acute Conjunctivitis,40
+2021-W18,Acute Diarrhoea,380
+2021-W18,Chickenpox,3
+2021-W18,HFMD,3
+2021-W19,Acute Upper Respiratory Tract infections,1472
+2021-W19,Acute Conjunctivitis,49
+2021-W19,Acute Diarrhoea,394
+2021-W19,Chickenpox,5
+2021-W19,HFMD,4
+2021-W20,Acute Upper Respiratory Tract infections,1669
+2021-W20,Acute Conjunctivitis,35
+2021-W20,Acute Diarrhoea,291
+2021-W20,Chickenpox,3
+2021-W20,HFMD,1
+2021-W21,Acute Upper Respiratory Tract infections,1198
+2021-W21,Acute Conjunctivitis,34
+2021-W21,Acute Diarrhoea,246
+2021-W21,Chickenpox,3
+2021-W21,HFMD,3
+2021-W22,Acute Upper Respiratory Tract infections,910
+2021-W22,Acute Conjunctivitis,36
+2021-W22,Acute Diarrhoea,224
+2021-W22,Chickenpox,3
+2021-W22,HFMD,2
+2021-W23,Acute Upper Respiratory Tract infections,756
+2021-W23,Acute Conjunctivitis,33
+2021-W23,Acute Diarrhoea,235
+2021-W23,Chickenpox,2
+2021-W23,HFMD,6
+2021-W24,Acute Upper Respiratory Tract infections,720
+2021-W24,Acute Conjunctivitis,32
+2021-W24,Acute Diarrhoea,229
+2021-W24,Chickenpox,4
+2021-W24,HFMD,4
+2021-W25,Acute Upper Respiratory Tract infections,757
+2021-W25,Acute Conjunctivitis,30
+2021-W25,Acute Diarrhoea,233
+2021-W25,Chickenpox,2
+2021-W25,HFMD,7
+2021-W26,Acute Upper Respiratory Tract infections,798
+2021-W26,Acute Conjunctivitis,42
+2021-W26,Acute Diarrhoea,291
+2021-W26,Chickenpox,2
+2021-W26,HFMD,6
+2021-W27,Acute Upper Respiratory Tract infections,830
+2021-W27,Acute Conjunctivitis,37
+2021-W27,Acute Diarrhoea,318
+2021-W27,Chickenpox,3
+2021-W27,HFMD,4
+2021-W28,Acute Upper Respiratory Tract infections,1024
+2021-W28,Acute Conjunctivitis,40
+2021-W28,Acute Diarrhoea,331
+2021-W28,Chickenpox,4
+2021-W28,HFMD,6
+2021-W29,Acute Upper Respiratory Tract infections,1283
+2021-W29,Acute Conjunctivitis,40
+2021-W29,Acute Diarrhoea,328
+2021-W29,Chickenpox,5
+2021-W29,HFMD,4
+2021-W30,Acute Upper Respiratory Tract infections,1109
+2021-W30,Acute Conjunctivitis,42
+2021-W30,Acute Diarrhoea,280
+2021-W30,Chickenpox,3
+2021-W30,HFMD,6
+2021-W31,Acute Upper Respiratory Tract infections,973
+2021-W31,Acute Conjunctivitis,30
+2021-W31,Acute Diarrhoea,287
+2021-W31,Chickenpox,3
+2021-W31,HFMD,5
+2021-W32,Acute Upper Respiratory Tract infections,964
+2021-W32,Acute Conjunctivitis,31
+2021-W32,Acute Diarrhoea,282
+2021-W32,Chickenpox,3
+2021-W32,HFMD,3
+2021-W33,Acute Upper Respiratory Tract infections,1017
+2021-W33,Acute Conjunctivitis,38
+2021-W33,Acute Diarrhoea,316
+2021-W33,Chickenpox,3
+2021-W33,HFMD,3
+2021-W34,Acute Upper Respiratory Tract infections,1082
+2021-W34,Acute Conjunctivitis,32
+2021-W34,Acute Diarrhoea,312
+2021-W34,Chickenpox,3
+2021-W34,HFMD,4
+2021-W35,Acute Upper Respiratory Tract infections,1114
+2021-W35,Acute Conjunctivitis,38
+2021-W35,Acute Diarrhoea,311
+2021-W35,Chickenpox,3
+2021-W35,HFMD,7
+2021-W36,Acute Upper Respiratory Tract infections,1127
+2021-W36,Acute Conjunctivitis,36
+2021-W36,Acute Diarrhoea,256
+2021-W36,Chickenpox,4
+2021-W36,HFMD,5
+2021-W37,Acute Upper Respiratory Tract infections,1315
+2021-W37,Acute Conjunctivitis,41
+2021-W37,Acute Diarrhoea,290
+2021-W37,Chickenpox,4
+2021-W37,HFMD,8
+2021-W38,Acute Upper Respiratory Tract infections,1261
+2021-W38,Acute Conjunctivitis,30
+2021-W38,Acute Diarrhoea,295
+2021-W38,Chickenpox,4
+2021-W38,HFMD,9
+2021-W39,Acute Upper Respiratory Tract infections,1176
+2021-W39,Acute Conjunctivitis,32
+2021-W39,Acute Diarrhoea,257
+2021-W39,Chickenpox,2
+2021-W39,HFMD,5
+2021-W40,Acute Upper Respiratory Tract infections,1180
+2021-W40,Acute Conjunctivitis,35
+2021-W40,Acute Diarrhoea,245
+2021-W40,Chickenpox,3
+2021-W40,HFMD,3
+2021-W41,Acute Upper Respiratory Tract infections,1168
+2021-W41,Acute Conjunctivitis,38
+2021-W41,Acute Diarrhoea,261
+2021-W41,Chickenpox,3
+2021-W41,HFMD,3
+2021-W42,Acute Upper Respiratory Tract infections,1187
+2021-W42,Acute Conjunctivitis,33
+2021-W42,Acute Diarrhoea,258
+2021-W42,Chickenpox,5
+2021-W42,HFMD,4
+2021-W43,Acute Upper Respiratory Tract infections,1209
+2021-W43,Acute Conjunctivitis,40
+2021-W43,Acute Diarrhoea,283
+2021-W43,Chickenpox,3
+2021-W43,HFMD,3
+2021-W44,Acute Upper Respiratory Tract infections,1157
+2021-W44,Acute Conjunctivitis,39
+2021-W44,Acute Diarrhoea,274
+2021-W44,Chickenpox,2
+2021-W44,HFMD,4
+2021-W45,Acute Upper Respiratory Tract infections,1158
+2021-W45,Acute Conjunctivitis,31
+2021-W45,Acute Diarrhoea,289
+2021-W45,Chickenpox,3
+2021-W45,HFMD,4
+2021-W46,Acute Upper Respiratory Tract infections,1085
+2021-W46,Acute Conjunctivitis,34
+2021-W46,Acute Diarrhoea,278
+2021-W46,Chickenpox,2
+2021-W46,HFMD,3
+2021-W47,Acute Upper Respiratory Tract infections,1044
+2021-W47,Acute Conjunctivitis,40
+2021-W47,Acute Diarrhoea,279
+2021-W47,Chickenpox,3
+2021-W47,HFMD,3
+2021-W48,Acute Upper Respiratory Tract infections,978
+2021-W48,Acute Conjunctivitis,36
+2021-W48,Acute Diarrhoea,266
+2021-W48,Chickenpox,2
+2021-W48,HFMD,4
+2021-W49,Acute Upper Respiratory Tract infections,969
+2021-W49,Acute Conjunctivitis,36
+2021-W49,Acute Diarrhoea,274
+2021-W49,Chickenpox,3
+2021-W49,HFMD,4
+2021-W50,Acute Upper Respiratory Tract infections,874
+2021-W50,Acute Conjunctivitis,40
+2021-W50,Acute Diarrhoea,269
+2021-W50,Chickenpox,3
+2021-W50,HFMD,3
+2021-W51,Acute Upper Respiratory Tract infections,870
+2021-W51,Acute Conjunctivitis,37
+2021-W51,Acute Diarrhoea,281
+2021-W51,Chickenpox,4
+2021-W51,HFMD,8
+2021-W52,Acute Upper Respiratory Tract infections,904
+2021-W52,Acute Conjunctivitis,41
+2021-W52,Acute Diarrhoea,287
+2021-W52,Chickenpox,2
+2021-W52,HFMD,10
+2022-W01,Acute Upper Respiratory Tract infections,977
+2022-W01,Acute Conjunctivitis,38
+2022-W01,Acute Diarrhoea,297
+2022-W01,Chickenpox,3
+2022-W01,HFMD,9
+2022-W02,Acute Upper Respiratory Tract infections,1263
+2022-W02,Acute Conjunctivitis,43
+2022-W02,Acute Diarrhoea,330
+2022-W02,Chickenpox,2
+2022-W02,HFMD,8
+2022-W03,Acute Upper Respiratory Tract infections,1567
+2022-W03,Acute Conjunctivitis,44
+2022-W03,Acute Diarrhoea,316
+2022-W03,Chickenpox,2
+2022-W03,HFMD,9
+2022-W04,Acute Upper Respiratory Tract infections,1911
+2022-W04,Acute Conjunctivitis,41
+2022-W04,Acute Diarrhoea,317
+2022-W04,Chickenpox,1
+2022-W04,HFMD,4
+2022-W05,Acute Upper Respiratory Tract infections,2945
+2022-W05,Acute Conjunctivitis,47
+2022-W05,Acute Diarrhoea,363
+2022-W05,Chickenpox,4
+2022-W05,HFMD,9
+2022-W06,Acute Upper Respiratory Tract infections,2645
+2022-W06,Acute Conjunctivitis,39
+2022-W06,Acute Diarrhoea,323
+2022-W06,Chickenpox,3
+2022-W06,HFMD,8
+2022-W07,Acute Upper Respiratory Tract infections,3256
+2022-W07,Acute Conjunctivitis,35
+2022-W07,Acute Diarrhoea,317
+2022-W07,Chickenpox,3
+2022-W07,HFMD,11
+2022-W08,Acute Upper Respiratory Tract infections,3247
+2022-W08,Acute Conjunctivitis,37
+2022-W08,Acute Diarrhoea,293
+2022-W08,Chickenpox,2
+2022-W08,HFMD,9
+2022-W09,Acute Upper Respiratory Tract infections,2982
+2022-W09,Acute Conjunctivitis,33
+2022-W09,Acute Diarrhoea,309
+2022-W09,Chickenpox,3
+2022-W09,HFMD,7
+2022-W10,Acute Upper Respiratory Tract infections,2626
+2022-W10,Acute Conjunctivitis,36
+2022-W10,Acute Diarrhoea,292
+2022-W10,Chickenpox,2
+2022-W10,HFMD,5
+2022-W11,Acute Upper Respiratory Tract infections,2071
+2022-W11,Acute Conjunctivitis,37
+2022-W11,Acute Diarrhoea,269
+2022-W11,Chickenpox,4
+2022-W11,HFMD,6
+2022-W12,Acute Upper Respiratory Tract infections,1817
+2022-W12,Acute Conjunctivitis,41
+2022-W12,Acute Diarrhoea,326
+2022-W12,Chickenpox,3
+2022-W12,HFMD,5
+2022-W13,Acute Upper Respiratory Tract infections,1497
+2022-W13,Acute Conjunctivitis,36
+2022-W13,Acute Diarrhoea,328
+2022-W13,Chickenpox,3
+2022-W13,HFMD,4
+2022-W14,Acute Upper Respiratory Tract infections,1469
+2022-W14,Acute Conjunctivitis,40
+2022-W14,Acute Diarrhoea,374
+2022-W14,Chickenpox,2
+2022-W14,HFMD,7
+2022-W15,Acute Upper Respiratory Tract infections,1439
+2022-W15,Acute Conjunctivitis,43
+2022-W15,Acute Diarrhoea,388
+2022-W15,Chickenpox,4
+2022-W15,HFMD,8
+2022-W16,Acute Upper Respiratory Tract infections,1467
+2022-W16,Acute Conjunctivitis,37
+2022-W16,Acute Diarrhoea,408
+2022-W16,Chickenpox,4
+2022-W16,HFMD,9
+2022-W17,Acute Upper Respiratory Tract infections,1431
+2022-W17,Acute Conjunctivitis,40
+2022-W17,Acute Diarrhoea,416
+2022-W17,Chickenpox,4
+2022-W17,HFMD,11
+2022-W18,Acute Upper Respiratory Tract infections,1663
+2022-W18,Acute Conjunctivitis,45
+2022-W18,Acute Diarrhoea,499
+2022-W18,Chickenpox,2
+2022-W18,HFMD,9
+2022-W19,Acute Upper Respiratory Tract infections,1708
+2022-W19,Acute Conjunctivitis,39
+2022-W19,Acute Diarrhoea,438
+2022-W19,Chickenpox,4
+2022-W19,HFMD,13
+2022-W20,Acute Upper Respiratory Tract infections,1975
+2022-W20,Acute Conjunctivitis,42
+2022-W20,Acute Diarrhoea,412
+2022-W20,Chickenpox,3
+2022-W20,HFMD,10
+2022-W21,Acute Upper Respiratory Tract infections,1889
+2022-W21,Acute Conjunctivitis,40
+2022-W21,Acute Diarrhoea,404
+2022-W21,Chickenpox,4
+2022-W21,HFMD,16
+2022-W22,Acute Upper Respiratory Tract infections,1650
+2022-W22,Acute Conjunctivitis,32
+2022-W22,Acute Diarrhoea,340
+2022-W22,Chickenpox,3
+2022-W22,HFMD,16
+2022-W23,Acute Upper Respiratory Tract infections,1744
+2022-W23,Acute Conjunctivitis,32
+2022-W23,Acute Diarrhoea,362
+2022-W23,Chickenpox,4
+2022-W23,HFMD,14
+2022-W24,Acute Upper Respiratory Tract infections,1806
+2022-W24,Acute Conjunctivitis,40
+2022-W24,Acute Diarrhoea,340
+2022-W24,Chickenpox,5
+2022-W24,HFMD,15
+2022-W25,Acute Upper Respiratory Tract infections,2093
+2022-W25,Acute Conjunctivitis,39
+2022-W25,Acute Diarrhoea,352
+2022-W25,Chickenpox,6
+2022-W25,HFMD,16
+2022-W26,Acute Upper Respiratory Tract infections,2576
+2022-W26,Acute Conjunctivitis,45
+2022-W26,Acute Diarrhoea,387
+2022-W26,Chickenpox,5
+2022-W26,HFMD,26
+2022-W27,Acute Upper Respiratory Tract infections,2910
+2022-W27,Acute Conjunctivitis,36
+2022-W27,Acute Diarrhoea,382
+2022-W27,Chickenpox,3
+2022-W27,HFMD,23
+2022-W28,Acute Upper Respiratory Tract infections,3217
+2022-W28,Acute Conjunctivitis,36
+2022-W28,Acute Diarrhoea,366
+2022-W28,Chickenpox,4
+2022-W28,HFMD,24
+2022-W29,Acute Upper Respiratory Tract infections,3018
+2022-W29,Acute Conjunctivitis,41
+2022-W29,Acute Diarrhoea,367
+2022-W29,Chickenpox,4
+2022-W29,HFMD,17
+2022-W30,Acute Upper Respiratory Tract infections,2907
+2022-W30,Acute Conjunctivitis,39
+2022-W30,Acute Diarrhoea,374
+2022-W30,Chickenpox,3
+2022-W30,HFMD,23
+2022-W31,Acute Upper Respiratory Tract infections,2667
+2022-W31,Acute Conjunctivitis,41
+2022-W31,Acute Diarrhoea,400
+2022-W31,Chickenpox,4
+2022-W31,HFMD,23
+2022-W32,Acute Upper Respiratory Tract infections,2674
+2022-W32,Acute Conjunctivitis,44
+2022-W32,Acute Diarrhoea,406
+2022-W32,Chickenpox,4
+2022-W32,HFMD,32
+2022-W33,Acute Upper Respiratory Tract infections,2326
+2022-W33,Acute Conjunctivitis,43
+2022-W33,Acute Diarrhoea,395
+2022-W33,Chickenpox,4
+2022-W33,HFMD,26
+2022-W34,Acute Upper Respiratory Tract infections,2121
+2022-W34,Acute Conjunctivitis,47
+2022-W34,Acute Diarrhoea,399
+2022-W34,Chickenpox,3
+2022-W34,HFMD,25
+2022-W35,Acute Upper Respiratory Tract infections,1998
+2022-W35,Acute Conjunctivitis,44
+2022-W35,Acute Diarrhoea,357
+2022-W35,Chickenpox,3
+2022-W35,HFMD,31
+2022-W36,Acute Upper Respiratory Tract infections,2054
+2022-W36,Acute Conjunctivitis,37
+2022-W36,Acute Diarrhoea,337
+2022-W36,Chickenpox,3
+2022-W36,HFMD,25
+2022-W37,Acute Upper Respiratory Tract infections,2500
+2022-W37,Acute Conjunctivitis,51
+2022-W37,Acute Diarrhoea,394
+2022-W37,Chickenpox,4
+2022-W37,HFMD,23
+2022-W38,Acute Upper Respiratory Tract infections,2516
+2022-W38,Acute Conjunctivitis,50
+2022-W38,Acute Diarrhoea,389
+2022-W38,Chickenpox,3
+2022-W38,HFMD,24
+2022-W39,Acute Upper Respiratory Tract infections,2590
+2022-W39,Acute Conjunctivitis,47
+2022-W39,Acute Diarrhoea,349
+2022-W39,Chickenpox,3
+2022-W39,HFMD,23
+2022-W40,Acute Upper Respiratory Tract infections,2865
+2022-W40,Acute Conjunctivitis,46
+2022-W40,Acute Diarrhoea,340
+2022-W40,Chickenpox,3
+2022-W40,HFMD,21
+2022-W41,Acute Upper Respiratory Tract infections,3514
+2022-W41,Acute Conjunctivitis,40
+2022-W41,Acute Diarrhoea,351
+2022-W41,Chickenpox,3
+2022-W41,HFMD,20
+2022-W42,Acute Upper Respiratory Tract infections,3342
+2022-W42,Acute Conjunctivitis,46
+2022-W42,Acute Diarrhoea,328
+2022-W42,Chickenpox,3
+2022-W42,HFMD,16
+2022-W43,Acute Upper Respiratory Tract infections,3142
+2022-W43,Acute Conjunctivitis,56
+2022-W43,Acute Diarrhoea,369
+2022-W43,Chickenpox,2
+2022-W43,HFMD,13
+2022-W44,Acute Upper Respiratory Tract infections,2595
+2022-W44,Acute Conjunctivitis,51
+2022-W44,Acute Diarrhoea,371
+2022-W44,Chickenpox,3
+2022-W44,HFMD,14
+2022-W45,Acute Upper Respiratory Tract infections,2294
+2022-W45,Acute Conjunctivitis,51
+2022-W45,Acute Diarrhoea,393
+2022-W45,Chickenpox,4
+2022-W45,HFMD,16
+2022-W46,Acute Upper Respiratory Tract infections,2184
+2022-W46,Acute Conjunctivitis,46
+2022-W46,Acute Diarrhoea,348
+2022-W46,Chickenpox,3
+2022-W46,HFMD,15
+2022-W47,Acute Upper Respiratory Tract infections,2111
+2022-W47,Acute Conjunctivitis,54
+2022-W47,Acute Diarrhoea,351
+2022-W47,Chickenpox,5
+2022-W47,HFMD,14
+2022-W48,Acute Upper Respiratory Tract infections,2009
+2022-W48,Acute Conjunctivitis,49
+2022-W48,Acute Diarrhoea,331
+2022-W48,Chickenpox,5
+2022-W48,HFMD,11
+2022-W49,Acute Upper Respiratory Tract infections,1989
+2022-W49,Acute Conjunctivitis,57
+2022-W49,Acute Diarrhoea,355
+2022-W49,Chickenpox,4
+2022-W49,HFMD,15
+2022-W50,Acute Upper Respiratory Tract infections,2092
+2022-W50,Acute Conjunctivitis,47
+2022-W50,Acute Diarrhoea,325
+2022-W50,Chickenpox,4
+2022-W50,HFMD,17
+2022-W51,Acute Upper Respiratory Tract infections,2168
+2022-W51,Acute Conjunctivitis,61
+2022-W51,Acute Diarrhoea,326
+2022-W51,Chickenpox,6
+2022-W51,HFMD,14
+2022-W52,Acute Upper Respiratory Tract infections,2336
+2022-W52,Acute Conjunctivitis,64
+2022-W52,Acute Diarrhoea,320
+2022-W52,Chickenpox,7
+2022-W52,HFMD,12
